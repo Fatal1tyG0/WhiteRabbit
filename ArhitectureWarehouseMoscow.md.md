@@ -125,7 +125,8 @@
 ### 1.7. Заявка на вывоз возвратов (Пользователь)
 **Компонент:** `TakingOutRefunds`
 > Описание компонента:
+Данный компонент предназначен для вывоза возвратов товара (по браку) с ПВЗ (ВБ или ОЗОН), либо, если доставка осуществляется другими курьерами - для оприходования браков и его переработки на "Склад Москва". 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODA0MTE0MiwtMjk2OTk0NTU4LC0zNT
-Y0MzQ5MTQsMTM2NTEwOTIzMl19
+eyJoaXN0b3J5IjpbODU3MTgyMjAzLC03MTgwNDExNDIsLTI5Nj
+k5NDU1OCwtMzU2NDM0OTE0LDEzNjUxMDkyMzJdfQ==
 -->
