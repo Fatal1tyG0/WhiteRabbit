@@ -95,11 +95,17 @@
 ![enter image description here](https://iimg.su/s/13/0f1ow7qSMg5moJ8OsYHcxujrN9hHznyGN2g7zrFR.png)
 6. Введите номер телефона без пробелов → поставьте галочку внизу → нажмите «ок».
 
+![enter image description here](https://iimg.su/s/13/Tc5Dfg4VTO499jttVWuyAeDVjfMwqot9KGePP9sc.png)
 
+7. Потяните вправо капчу.
+
+![enter image description here](https://iimg.su/s/13/JGvHnqbO3lGZn3HCGdlPP4kawTqICLNKwLPFlsYH.png)
+
+8. Введите код из смс.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzQyMjY1MSwtODA0NDM3NTE3LC0zNT
-QzMTIyNDQsLTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEz
-MDgyMl19
+eyJoaXN0b3J5IjpbNjkzNjc4NzE1LC04MDQ0Mzc1MTcsLTM1ND
+MxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0NjYxMiwtMTgxMTMw
+ODIyXX0=
 -->
