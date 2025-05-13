@@ -3,6 +3,9 @@
 1. [Скачать приложение 1688 №1](#Скачать-приложение-1688-№1)
 2. [Скачать приложения 1688 №2](#Установка-приложения-1688-№2)
 3. [Регистрация в приложении 1688](#Регистрация-в-приложении-1688)
+4. [Способ 1. Прямая регистрация на 1688](#Способ-1.-Прямая-регистрация-на-1688)
+5. [Способ 2. Через Таобао](#Способ-2.-Через-Таобао)
+6. 
 
 ---
 >Приведённые ниже способы установки приложения актуальны для смартфонов на Android, для Iphone всё гораздо проще. В штатном магазине AppStore 1688.com находится легко.
@@ -165,7 +168,7 @@
 
 Надеемся, данная инструкция Вам помогла! С любовью, команда WhiteRabbit!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzY3MjY3MCwtODkwOTU2ODQ5LC04MD
-Q0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0
-NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbLTE1MDYzNzYxNzEsLTg5MDk1Njg0OSwtOD
+A0NDM3NTE3LC0zNTQzMTIyNDQsLTIwODg3NDY2MTIsLTIwODg3
+NDY2MTIsLTE4MTEzMDgyMl19
 -->
