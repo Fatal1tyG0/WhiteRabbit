@@ -1,4 +1,9 @@
+# # Установка и настройка Alipay в России⁠⁠
 
+1. [Установка приложения Alipay и регистрация аккаунта](#Установка-приложения-Alipay-и-регистрация-аккаунта)
+2. [Регистрация аккаунта на российский номер телефона](#Регистрация-аккаунта-на-российский-номер-телефона)
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbLTQ3NDE2NTIxMiwtMjA4ODc0NjYxMiwtMT
+gxMTMwODIyXX0=
 -->
