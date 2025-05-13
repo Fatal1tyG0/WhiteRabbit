@@ -1,8 +1,7 @@
 # Инструкция по установке и использованию приложения 1688 (Китайский маркетплейс) в 2025 году
 
-1. [Скачать приложение 1688(iOS)](#Скачать-приложение-1688(iOS))
-2. [Установка приложения 1688](#Установка-приложения-1688)
-3. [Скачать приложение 1688 (Android)](#Скачать-приложение-1688(Android))
+1. [Скачать приложение 1688 №1](#Скачать-приложение-1688(iOS))
+2. [Скачать приложения 1688 №2](#Установка-приложения-1688)
 
 ---
 >Приведённые ниже способы установки приложения актуальны для смартфонов на Android, для Iphone всё гораздо проще. В штатном магазине AppStore 1688.com находится легко.
@@ -23,6 +22,8 @@
 ![enter image description here](https://iimg.su/s/13/U8h0ObxKrijJAzX2ADclLJZW1QwO3hVRFlheilUR.png)
 Процесс скачивания приложения 1688 завершен!
 
+---
+
 ## Установка приложения 1688
 Заходим через браузер на сайт 1688.com и нажимаем на всплывающую кнопку.
 ![enter image description here](https://iimg.su/s/13/GeEmJsaC7twR4n3KTPEAyZNNGUcISDrJTVsMwLjQ.png)
@@ -30,7 +31,9 @@
 ![enter image description here](https://iimg.su/s/13/mr0HgpGACqrcdK8VZocnkuverkK8dkZH1E6mBifb.png)
 Последующие шаги аналогичны примеру выше.
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MDE0NjkxLC0yMDg4NzQ2NjEyLC0yMD
-g4NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwOTcwNzMxNTcsLTIwODg3NDY2MTIsLT
+IwODg3NDY2MTIsLTE4MTEzMDgyMl19
 -->
