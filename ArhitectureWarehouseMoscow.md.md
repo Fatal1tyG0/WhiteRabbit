@@ -7,12 +7,18 @@
 5. [Баланс и платежи в Alipay](Баланс-и-платежи-в-Alipay)
 ---
 > Приложение Alipay позволяет осуществлять любые платежи в Китае, а также позволит получать всевозможные скидки, что очень удобно.
-
 Для того, чтобы пользоваться Alipay, необходимо иметь загранпаспорт. Без загранпаспорта невозможно пройти верификацию, то есть подтвердить свою личность в аккаунте Alipay.
 
-
 ## Установка приложения Alipay и регистрация аккаунта
+
+Приложение Alipay доступно в магазинах AppStore и Google Play, а также на других платформах.
+
+Устанавливаем версию для материкового Китая - Hangzhou.
+
+![enter image description here](https://iimg.su/s/13/jiQ5RzaaMmAimSx4h3TfaFY2kUjOmwJpWDy0RAxJ.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUxMTcyMTUsLTIwODg3NDY2MTIsLT
-E4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbMzUwNzg0ODM5LC0yMDg4NzQ2NjEyLC0xOD
+ExMzA4MjJdfQ==
 -->
