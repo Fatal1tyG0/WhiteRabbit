@@ -17,8 +17,16 @@
 
 ![enter image description here](https://iimg.su/s/13/jiQ5RzaaMmAimSx4h3TfaFY2kUjOmwJpWDy0RAxJ.png)
 
+Приложение для IOS –  [скачать](https://api.vc.ru/v2.8/redirect?to=https%3A%2F%2Fapps.apple.com%2Fru%2Fapp%2Falipay-simplify-your-life%2Fid333206289&postId=888157)
+Приложение для Android –  [скачать](https://api.vc.ru/v2.8/redirect?to=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.eg.android.AlipayGphone&postId=888157)
 
+**После установки приложения, примите условия его использования.**
+
+![enter image description here](https://iimg.su/s/13/fwAcPZJc1mRITiQekeE0TofrlyYy9JRFslXUnFpu.png)
+
+---
+## Регистрация аккаунта на российский номер телефона
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNzg0ODM5LC0yMDg4NzQ2NjEyLC0xOD
+eyJoaXN0b3J5IjpbLTM1OTY5NDg1LC0yMDg4NzQ2NjEyLC0xOD
 ExMzA4MjJdfQ==
 -->
