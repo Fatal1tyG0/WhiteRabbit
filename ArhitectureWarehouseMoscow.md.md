@@ -68,10 +68,18 @@
 **Шаг 3.**
 
 Вверху выберете регистрацию от физического лица, введите логин и пароль, номер телефона с 9 и без пробелов. Код страны +7 (Россия). Плавно потяните «капчу», поставьте галочку и нажмите «Подтвердить».
+![enter image description here](https://iimg.su/s/13/LuOMmrcNuZHR7stz4nwnUaIQwrF5t9bcB4DCnGu4.png)
+**Шаг 4.**
+
+На указанный номер телефона придет смс с кодом подтверждения. Введите его в поле и нажмите «Ок».
+![enter image description here](https://iimg.su/s/13/A58XtE1NLZkurxTZKbKz1Qz9onOwBdDlM3xPUlAZ.png)
+
+---
+### Способ 2. Через Таобао
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc0MzcwOTksLTM1NDMxMjI0NCwtMj
-A4ODc0NjYxMiwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMD
+g4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ==
 -->
