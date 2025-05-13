@@ -141,9 +141,20 @@
 
 17. И еще разок «окнем».
 
+![enter image description here](https://iimg.su/s/13/eecriOLXEVYgp3tCbuKEqX8MahCXh7dkK2070aid.png)
 
+Вот теперь готово! В итоге у вас один логин и пароль для 1688 и Таобао. Не забудьте их записать, чтобы не забыть.
+
+### Способ 3. Через Алипей
+Отлично, если у вас есть загранпаспорт, чтобы пройти полную верификацию на Алипей. Можно обойтись и без верификации, но тогда нет гарантий, что аккаунт на 1688 в скором времени не забанят.
+
+Но всё же пробуем:
+
+1. Скачайте приложение Alipay.
+
+2. Пройдите регистрацию, в 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzQyMjA5MSwtODkwOTU2ODQ5LC04MD
-Q0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0
-NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbOTA3NTIwMDA1LC04OTA5NTY4NDksLTgwND
+QzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2
+NjEyLC0xODExMzA4MjJdfQ==
 -->
