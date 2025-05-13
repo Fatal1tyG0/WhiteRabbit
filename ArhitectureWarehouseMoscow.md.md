@@ -155,8 +155,17 @@
 2. Пройдите регистрацию, в [Базе знаний](https://whiterabbit.moscow/faq) имеется отдельная инструкция;
 3. При входе в приложение 1688 выберете вход через Алипей.
 
+![enter image description here](https://iimg.su/s/13/y2fvu0xYeY0bK5svlu6eaPX2f05tC94vKr00iONI.png)
+
+4. Пара кнопок подтверждения — и готово. Теперь у вас один логин в Алипей, Таобао и 1688.
+
+В дальнейшем входить с компьютера удобнее по QR-коду. В мобильном приложении 1688 откройте сканер → наведите камеру на QR-код для входа на компьютере → подтвердите действие.
+
+![enter image description here](https://iimg.su/s/13/S6pNDZIOFI9GhZau6Ifhkp6CvhJylwkIAaU2m0jl.png)
+
+Надеемся, данная инструкция Вам помогла! С любовью, команда WhiteRabbit!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjY2NDc1NCwtODkwOTU2ODQ5LC04MD
+eyJoaXN0b3J5IjpbMTc0MzY3MjY3MCwtODkwOTU2ODQ5LC04MD
 Q0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0
 NjYxMiwtMTgxMTMwODIyXX0=
 -->
