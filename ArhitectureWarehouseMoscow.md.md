@@ -2,7 +2,7 @@
 
 1. [Скачать приложение 1688 №1](#Скачать-приложение-1688-№1)
 2. [Скачать приложения 1688 №2](#Установка-приложения-1688-№2)
-3. [Регитрация в приложении 1688](#Регистрация-в-прилож
+3. [Регистрация в приложении 1688](#Регистрация-в-приложении-1688)
 
 ---
 >Приведённые ниже способы установки приложения актуальны для смартфонов на Android, для Iphone всё гораздо проще. В штатном магазине AppStore 1688.com находится легко.
@@ -32,10 +32,12 @@
 ![enter image description here](https://iimg.su/s/13/mr0HgpGACqrcdK8VZocnkuverkK8dkZH1E6mBifb.png)
 Последующие шаги аналогичны примеру выше.
 
+## Регистрация в приложении 1688
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTY1MjYzLC0yMDg4NzQ2NjEyLC0yMD
-g4NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMj
+A4ODc0NjYxMiwtMTgxMTMwODIyXX0=
 -->
