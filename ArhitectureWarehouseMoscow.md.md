@@ -17,8 +17,10 @@
 Обратите внимание на значок в зелёной рамочке с иероглифами **官方 (guānfāng)**, что переводится как официальный. Данный значок даёт поисковая система, так что можно скачивать и не волноваться о безопасности.
 
 Далее необходимо разрешить установку на ваш смартфон.
+![enter image description here](https://iimg.su/s/13/sC03xYFoikCvjR9rJyzU6bkigBzSmR91cNVF15Ep.png)
 
+Здесь мы соглашаемся с пользовательским соглашением. Тапаем по кнопке **同意**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDIwMTc3OCwtMjA4ODc0NjYxMiwtMj
-A4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbMTQ4Nzc2MjQxLC0yMDg4NzQ2NjEyLC0yMD
+g4NzQ2NjEyLC0xODExMzA4MjJdfQ==
 -->
