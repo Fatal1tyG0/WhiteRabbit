@@ -25,9 +25,12 @@
 
 ## Установка приложения 1688
 Заходим через браузер на сайт 1688.com и нажимаем на всплывающую кнопку.
-
+![enter image description here](https://iimg.su/s/13/GeEmJsaC7twR4n3KTPEAyZNNGUcISDrJTVsMwLjQ.png)
+Далее нажимаем кнопку скачать приложение 1688 - **下载阿里巴巴**:
+![enter image description here](https://iimg.su/s/13/mr0HgpGACqrcdK8VZocnkuverkK8dkZH1E6mBifb.png)
+Последующие шаги аналогичны примеру выше.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTg0MjE1LC0yMDg4NzQ2NjEyLC0yMD
+eyJoaXN0b3J5IjpbNDY2MDE0NjkxLC0yMDg4NzQ2NjEyLC0yMD
 g4NzQ2NjEyLC0xODExMzA4MjJdfQ==
 -->
