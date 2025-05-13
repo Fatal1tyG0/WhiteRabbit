@@ -60,10 +60,18 @@
 **Шаг 1.**
 
 Зайдите на 1688.com, нажмите нужные иероглифы «бесплатная регистрация».
+![enter image description here](https://iimg.su/s/13/vPQ9Y5VOHVJOe8ynHmtFN8yJ5if9GhHnxV1XF1zV.png)
+**Шаг 2.**
+
+Выскочит окошко с предупреждением → нажмите на оранжевый квадратик, чтобы согласиться с условиями площадки.
+![enter image description here](https://iimg.su/s/13/SLIX3zUJB9tgUSCp0CixHvj261ycvGjFxICaPYyp.png)
+**Шаг 3.**
+
+Вверху выберете регистрацию от физического лица, введите логин и пароль, номер телефона с 9 и без пробелов. Код страны +7 (Россия). Плавно потяните «капчу», поставьте галочку и нажмите «Подтвердить».
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTY0NjU3LC0zNTQzMTIyNDQsLTIwOD
-g3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbLTE5Mjc0MzcwOTksLTM1NDMxMjI0NCwtMj
+A4ODc0NjYxMiwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
 -->
