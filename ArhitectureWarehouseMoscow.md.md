@@ -150,11 +150,13 @@
 
 Но всё же пробуем:
 
-1. Скачайте приложение Alipay.
+1. Скачайте приложение Alipay;
 
-2. Пройдите регистрацию, в 
+2. Пройдите регистрацию, в [Базе знаний](https://whiterabbit.moscow/faq) имеется отдельная инструкция;
+3. При входе в приложение 1688 выберете вход через Алипей.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3NTIwMDA1LC04OTA5NTY4NDksLTgwND
-QzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2
-NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbMTMwNjY2NDc1NCwtODkwOTU2ODQ5LC04MD
+Q0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0
+NjYxMiwtMTgxMTMwODIyXX0=
 -->
