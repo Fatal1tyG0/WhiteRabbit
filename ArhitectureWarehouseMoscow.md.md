@@ -140,7 +140,9 @@
 **2) подтверждение личной информации**  
 **3) верификация по номеру телефона.**
 
+![enter image description here](https://iimg.su/s/13/YM1LXhghgLCzHwhs5YmU225Zvn55aIqjMTavSPAj.png)
 
+Надеемся, что данная инструкция была для Вас полезна!!! С любовью к Вам, команда 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA4MDQ0NjgsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbMTc4MTA2NzMwNCwtMTgxMTMwODIyXX0=
 -->
