@@ -4,9 +4,10 @@
 3. [just](#like-this-one)
 4. [just](#like-this-one)
 5. [just](#like-this-one)
-6. [just](#like-this-one)
+6. [just](#like-this-one)### Заголовок {#1}
 > Из статьи вы подробно узнаете, как установить и зарегистрировать WeChat, как пройти верификацию, установить и изменить платежный пароль, расскажем про баланс и платежи.    
 Эта статья создана для тех, кто первый раз пытается пройти регистрацию в приложении WeChat и не хочет допустить лишних ошибок.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTk1MjYxMywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4NzEyMTA5NDksMTAwOTk1MjYxMywtMj
+A4ODc0NjYxMl19
 -->
