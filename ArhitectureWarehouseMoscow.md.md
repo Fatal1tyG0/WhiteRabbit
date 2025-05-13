@@ -69,9 +69,15 @@
 
 ![enter image description here](https://iimg.su/s/13/owEd0nqOgDfg0ThUEE9quqnMztLIR5kUvyp8L6Lx.png)
 
-# ## **Установка платежного пароля**
+# Установка платежного пароля
+
+После верификации номера приложение потребует установить **платежный пароль,** аналогично тому, как мы делали это в **Alipay**. Он потребуется нам в будущем, для оплаты покупок. Придумываем шестизнаный платежный пароль, и записываем его куда-нибудь, чтобы не возникло трудностей с оплатой в будущем.
+
+![enter image description here](https://iimg.su/s/13/ccZVsFuaQ5q7Z4hGg3RWnkdm0UKIIBZGx8j7HxzV.png)
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMTgxOTIzLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbMjYyNjg1NjQ1LC0xODExMzA4MjJdfQ==
 -->
