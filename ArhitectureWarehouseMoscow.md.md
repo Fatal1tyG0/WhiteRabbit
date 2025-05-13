@@ -31,8 +31,11 @@
 ![enter image description here](https://iimg.su/s/13/Y5tte7BDV2szoXYE2RdgDUlmkAvZRs5I1C2v5daf.png)
 
 Появится окно с сервисами WeChat, их можно не трогать, т.к. они нам не пригодятся, поэтому просто переходим **дальше**.
+![enter image description here](https://iimg.su/s/13/Lvntly88JQowy58OC0LOqt18IQEY53ApuHJdiw5E.png)
 
+На этом этапе все, регистрация в WeChat окончена! Дальше будем проходить верификацию.
 
+# Верификация аккаунта WeChat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkzMzc3OTVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTEzMDgyMl19
 -->
