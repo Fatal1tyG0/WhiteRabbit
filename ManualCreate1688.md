@@ -68,4 +68,88 @@
 <img src="https://iimg.su/s/13/A58XtE1NLZkurxTZKbKz1Qz9onOwBdDlM3xPUlAZ.png" alt="enter image description here"></p>
 <hr>
 <h3 id="способ-2.-через-таобао">Способ 2. Через Таобао</h3>
+<p>Таобао более лоялен к иностранцем, поэтому можно зарегистрироваться здесь и использовать аккаунт для входа на 1688. Тогда данные для входа на обе площадки будут одинаковыми.</p>
+<ol>
+<li>Скачайте приложение Таобао.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/guqKNdIXOyYWqqTlLx07RCn71MsQfDetsHfD4lqk.png" alt="enter image description here"><br>
+2. Подтвердите согласие с правилами площадки.<br>
+<img src="https://iimg.su/s/13/gAEfIi8tsOB2zWpJHCFIx1r1VWqIeQtZxst7d5RP.png" alt="enter image description here"><br>
+3. Нажмите в правом нижнем углу на кнопку входа.<br>
+<img src="https://iimg.su/s/13/P9tLhtBi9WFUlbDJwiVvMsWY0nj21csFcxAds2h0.png" alt="enter image description here"></p>
+<ol start="4">
+<li>Нажмите на яркие иероглифы справа — зарегистрироваться.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/bNBytY9w8hyP5AcEVSp3CckkAbRQ9KaJnSW9bI4e.png" alt="enter image description here"><br>
+5. Из списка выберите Россию (+7). Будьте внимательны, Казахстан — тоже +7. Но нам нужно выбрать иероглифы <strong>俄罗斯</strong>. Это важно, иначе код подтверждения не придет.</p>
+<p><img src="https://iimg.su/s/13/0f1ow7qSMg5moJ8OsYHcxujrN9hHznyGN2g7zrFR.png" alt="enter image description here"><br>
+6. Введите номер телефона без пробелов → поставьте галочку внизу → нажмите «ок».</p>
+<p><img src="https://iimg.su/s/13/Tc5Dfg4VTO499jttVWuyAeDVjfMwqot9KGePP9sc.png" alt="enter image description here"></p>
+<ol start="7">
+<li>Потяните вправо капчу.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/JGvHnqbO3lGZn3HCGdlPP4kawTqICLNKwLPFlsYH.png" alt="enter image description here"></p>
+<ol start="8">
+<li>Введите код из смс.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/3kARQKhNY65doL5lPC53q0iNGShvToP7CGLPZTq7.png" alt="enter image description here"></p>
+<ol start="9">
+<li>Готово. Вот эти «tb и 10 цифр» — ваш логин.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/qW9CpSgEZQKEQsveO95BpkjkgLJ0g4B3v7Phw2eh.png" alt="enter image description here"></p>
+<blockquote>
+<p>На этом можно закончить, и входить на 1688 через Таобао → на телефоне всё получится автоматически. Но так как мы будем входить на платформы и через компьютер, нужно задать пароль. Есть логин и пароль → заходим в систему с любого устройства.</p>
+</blockquote>
+<ol start="10">
+<li>Поэтому теперь установим пароль. Нажмите на значок «шестеренка» вверху.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/37QxFxMaDiztUifPmP3aMbZJeBxVWocP3IUOZsn0.png" alt="enter image description here"></p>
+<ol start="11">
+<li>Кликните на третью строчку сверху.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/01hNfV4tlcAIzaNkMVMvqMJVUhwDdYYXyL2UtBcN.png" alt="enter image description here"></p>
+<p>12.В открывшемся меню — на четвертую строчку сверху. Грузит долго, не пугайтесь.</p>
+<p><img src="https://iimg.su/s/13/Llco0G6OR97U3MyEXKFiyNfbs9O1DcAwaxUQzlEm.png" alt="enter image description here"></p>
+<ol start="13">
+<li>Нажмите на оранжевые иероглифы, дождитесь смс-подтверждения, введите код в графу и нажмите «ок».</li>
+</ol>
+<p><img src="https://iimg.su/s/13/BeCUXeBMsM7cVagryigCksnmPoO3Pm8MQL4JnVso.png" alt="enter image description here"></p>
+<ol start="14">
+<li>Введите пароль , состоящий из 6-20 символов: большие и маленькие английские буквы, цифры и символы. Например «China1215!». Повторите пароль и нажмите «ок».</li>
+</ol>
+<p><img src="https://iimg.su/s/13/ae5y96Q00TCe6GNAKol6sD5HttwdPZGDkY9jmXVH.png" alt="enter image description here"></p>
+<ol start="15">
+<li>Теперь скачиваем приложение 1688 → переходим в окно регистрации (всё как в предыдущем способе). Только выбираем регистрацию через Таобао.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/7Bom9nggjIMguS0Yj1cXAdOiYi93peeBM4zH5EQi.png" alt="enter image description here"></p>
+<ol start="16">
+<li>Система спросит, ваш ли это аккаунт → нажмите на верхнюю кнопку подтверждения.</li>
+</ol>
+<p><img src="https://iimg.su/s/13/XHDQlqZ5ILod8pqbNLDF1n9Ei1H1kz1uKPkQ6tY3.png" alt="enter image description here"></p>
+<ol start="17">
+<li>И еще разок «окнем».</li>
+</ol>
+<p><img src="https://iimg.su/s/13/eecriOLXEVYgp3tCbuKEqX8MahCXh7dkK2070aid.png" alt="enter image description here"></p>
+<p>Вот теперь готово! В итоге у вас один логин и пароль для 1688 и Таобао. Не забудьте их записать, чтобы не забыть.</p>
+<h3 id="способ-3.-через-алипей">Способ 3. Через Алипей</h3>
+<p>Отлично, если у вас есть загранпаспорт, чтобы пройти полную верификацию на Алипей. Можно обойтись и без верификации, но тогда нет гарантий, что аккаунт на 1688 в скором времени не забанят.</p>
+<p>Но всё же пробуем:</p>
+<ol>
+<li>
+<p>Скачайте приложение Alipay;</p>
+</li>
+<li>
+<p>Пройдите регистрацию, в <a href="https://whiterabbit.moscow/faq">Базе знаний</a> имеется отдельная инструкция;</p>
+</li>
+<li>
+<p>При входе в приложение 1688 выберете вход через Алипей.</p>
+</li>
+</ol>
+<p><img src="https://iimg.su/s/13/y2fvu0xYeY0bK5svlu6eaPX2f05tC94vKr00iONI.png" alt="enter image description here"></p>
+<ol start="4">
+<li>Пара кнопок подтверждения — и готово. Теперь у вас один логин в Алипей, Таобао и 1688.</li>
+</ol>
+<p>В дальнейшем входить с компьютера удобнее по QR-коду. В мобильном приложении 1688 откройте сканер → наведите камеру на QR-код для входа на компьютере → подтвердите действие.</p>
+<p><img src="https://iimg.su/s/13/S6pNDZIOFI9GhZau6Ifhkp6CvhJylwkIAaU2m0jl.png" alt="enter image description here"></p>
+<p>Надеемся, данная инструкция Вам помогла! С любовью, команда WhiteRabbit!</p>
 
