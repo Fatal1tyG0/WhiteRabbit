@@ -117,9 +117,15 @@
 
 11. Кликните на третью строчку сверху.
 
-![enter image description here](https://iimg.su/s/13/01hNfV4tlcAIzaNkMVMvqMJVUhwDdYYXyL2UtBcN.png) 
+![enter image description here](https://iimg.su/s/13/01hNfV4tlcAIzaNkMVMvqMJVUhwDdYYXyL2UtBcN.png)
+
+12.В открывшемся меню — на четвертую строчку сверху. Грузит долго, не пугайтесь.
+
+![enter image description here](https://iimg.su/s/13/Llco0G6OR97U3MyEXKFiyNfbs9O1DcAwaxUQzlEm.png)
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDU5MjEwMCwtODA0NDM3NTE3LC0zNT
+eyJoaXN0b3J5IjpbLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNT
 QzMTIyNDQsLTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEz
 MDgyMl19
 -->
