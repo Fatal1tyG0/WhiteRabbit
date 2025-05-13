@@ -40,8 +40,15 @@
 **4-5.** Введите код из SMS для подтверждения регистрации.
 
 **6.** Выберите страну или регион для вашего идентификатора.
+![enter image description here](https://iimg.su/s/13/c4VVKUhpnf03tzyTkyjc0qxr4JwRLujGmcXPdVgj.png)
+**Поздравляем, регистрация завершена. Можно переходить к настройкам.**
+
+## Настройка приложения Alipay
+## 1. Установка платёжного пароля.
+
+Очень важно установить запоминающийся  **платежный пароль Alipay**, состоящий из 6 цифр. Помните, что это  **важный шаг**, так как этот пароль потребуется при каждом платеже.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NTYzNDI5LC0yMDg4NzQ2NjEyLC0xOD
-ExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbMTA1NDYwMzU5NCwtMjA4ODc0NjYxMiwtMT
+gxMTMwODIyXX0=
 -->
