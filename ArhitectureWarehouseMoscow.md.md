@@ -109,9 +109,17 @@
 
 ![enter image description here](https://iimg.su/s/13/qW9CpSgEZQKEQsveO95BpkjkgLJ0g4B3v7Phw2eh.png)
 
-> На этом можно закончить, и входить на 1688 через Таобао → на телефоне всё получится автоматически. Но так как мы будем входить на платформы и через компьютер, нужно задать пароль. Есть логин и пароль → заходим в систему с любого устройства. 
+> На этом можно закончить, и входить на 1688 через Таобао → на телефоне всё получится автоматически. Но так как мы будем входить на платформы и через компьютер, нужно задать пароль. Есть логин и пароль → заходим в систему с любого устройства.
+
+10. Поэтому теперь установим пароль. Нажмите на значок «шестеренка» вверху.
+
+![enter image description here](https://iimg.su/s/13/37QxFxMaDiztUifPmP3aMbZJeBxVWocP3IUOZsn0.png)
+
+11. Кликните на третью строчку сверху.
+
+![enter image description here](https://iimg.su/s/13/01hNfV4tlcAIzaNkMVMvqMJVUhwDdYYXyL2UtBcN.png) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzA5NDg2MCwtODA0NDM3NTE3LC0zNT
+eyJoaXN0b3J5IjpbLTk3NDU5MjEwMCwtODA0NDM3NTE3LC0zNT
 QzMTIyNDQsLTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEz
 MDgyMl19
 -->
