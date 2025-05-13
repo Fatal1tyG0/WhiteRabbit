@@ -9,7 +9,7 @@
 <li><a href="#%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-WeChat">Регистрация в WeChat</a></li>
 <li><a href="#%D0%92%D0%B5%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0-WeChat">Верификация аккаунта WeChat</a></li>
 <li><a href="#%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F">Установка платежного пароля</a></li>
-<li><a href="#%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-WeChat.%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81-%D0%B8-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8">Использование WeChat. Баланс и платежи</a></li>
+<li><a href="#%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-WeChat">Использование WeChat</a></li>
 <li><a href="#%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F">Изменение платежного пароля</a></li>
 </ol>
 <hr>
@@ -71,7 +71,7 @@
 Когда верификацию одобрят нам придет уведомление по этому поводу.</p>
 <p><img src="https://iimg.su/s/13/BgHjOFoLJR9oWdDQRHXO1BW0ycVvMgqfxk6WtTN4.png" alt="enter image description here"></p>
 <hr>
-<h2 id="использование-wechat.-баланс-и-платежи">Использование WeChat. Баланс и платежи</h2>
+<h2 id="использование-wechat">Использование WeChat</h2>
 <p>К сожалению приложение блокировало снимки экрана на некоторых этапах, поэтому не все шаги будут с иллюстрациями.</p>
 <p>Теперь, когда наш аккаунт верифицирован и нам доступен весь функционал приложения, мы приступим к изучению денежных переводов.</p>
 <p>Для этого переходим в <strong>“Профиль” (Я)</strong> затем <strong>“Cлужбы”.</strong><br>
