@@ -62,9 +62,16 @@
   
 После заполнения переходим дальше и пропускаем шаг с добавлением банковской карты по кнопке **“maybe later”.**
 
+![enter image description here](https://iimg.su/s/13/d58sKVSoQ7E214QZqyP1VGV9F93jLiSndEoFcCxW.png)
 
+Далее нужно верифицировать номер телефона. По умолчанию код страны будет +86, меняем его на **+7**, вводим номер телефона и жмем на кнопку **“get code”**, чтобы  
+получить код верификации.
+
+![enter image description here](https://iimg.su/s/13/owEd0nqOgDfg0ThUEE9quqnMztLIR5kUvyp8L6Lx.png)
+
+# ## **Установка платежного пароля**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzNjgzNDY2LC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbODIwMTgxOTIzLC0xODExMzA4MjJdfQ==
 -->
