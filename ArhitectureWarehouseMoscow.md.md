@@ -47,9 +47,24 @@
 
 В открывшемся окне нажимаем на кнопку **“Verify Now”** и соглашаемся с политикой конфиденциальности по кнопке **“Agree”**.
 
+![enter image description here](https://iimg.su/s/13/x9ki86sdVJ04ncpNDWgzfn1TdWw7Uhpdsaum7q1n.png)
+
+еперь нам нужно выбрать документ для идентификации в разделе **“id type”**. В нашем случае это **“Passport”**. Выбираем его и заполняем необходимые данные.
+
+![enter image description here](https://iimg.su/s/13/TUy9y2JXRdsOkSc0NLUWSB5SHzWvYtpUqlv474bE.png)
+
+**Passport No. - Номер паспорта**  
+**Country/Region - Страна/Регион**  
+**ID Effective Date - Дата выдачи**  
+**ID Expiration Date - Дата окончания срока действия**  
+**Adress - Адрес**  
+**Occupation - род деятельности/профессия/работа**  
+  
+После заполнения переходим дальше и пропускаем шаг с добавлением банковской карты по кнопке **“maybe later”.**
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE2MjAwMDEsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbNDIzNjgzNDY2LC0xODExMzA4MjJdfQ==
 -->
