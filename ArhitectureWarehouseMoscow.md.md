@@ -123,9 +123,14 @@
 
 ![enter image description here](https://iimg.su/s/13/Llco0G6OR97U3MyEXKFiyNfbs9O1DcAwaxUQzlEm.png)
 
+13. Нажмите на оранжевые иероглифы, дождитесь смс-подтверждения, введите код в графу и нажмите «ок».
+
+![enter image description here](https://iimg.su/s/13/BeCUXeBMsM7cVagryigCksnmPoO3Pm8MQL4JnVso.png)
+
+14. Введите пароль , состоящий из 6-20 символов: большие и маленькие английские буквы, цифры и символы. Например «China1215!». Повторите пароль и нажмите «ок».
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNT
-QzMTIyNDQsLTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEz
-MDgyMl19
+eyJoaXN0b3J5IjpbMTI4MTYxNzMyNSwtODkwOTU2ODQ5LC04MD
+Q0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0
+NjYxMiwtMTgxMTMwODIyXX0=
 -->
