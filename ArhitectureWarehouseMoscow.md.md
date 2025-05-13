@@ -11,8 +11,10 @@
 ![enter image description here](https://iimg.su/s/13/SBdF6suJiUk8BsirRkSQ7hphqFW7eBeSpaHAKS30.png)
 **Способ 1 - скачать приложение 1688**
 В браузере заходим в китайский поисковик [Baidu.com](https://dzen.ru/away?to=https%3A%2F%2Fwww.baidu.com%2F). Вводим в поиск 1688 App
+![enter image description here](https://iimg.su/s/13/6NNfAVlMVr0T2LHZy1q6DT0y07JuEjYUawfDcPws.png)
+Вводим в поиск **1688 App**, нажимаем на кнопку **普通下载**, что означает простая загрузка.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjE1NDY2MSwtMjA4ODc0NjYxMiwtMj
-A4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbLTExODgxNjMwNDIsLTIwODg3NDY2MTIsLT
+IwODg3NDY2MTIsLTE4MTEzMDgyMl19
 -->
