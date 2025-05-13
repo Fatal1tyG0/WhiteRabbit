@@ -33,11 +33,13 @@
 Последующие шаги аналогичны примеру выше.
 
 ## Регистрация в приложении 1688
+> Имеется 4 способа регистрации на сайте 1688, мы рассмотрим каждый из них. Так Вы сможете выбрать тот способ, который подходит наиболее Вам.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMj
-A4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbMTQwODI2ODc2OSwtMzU0MzEyMjQ0LC0yMD
+g4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ==
 -->
