@@ -20,7 +20,12 @@
 ![enter image description here](https://iimg.su/s/13/sC03xYFoikCvjR9rJyzU6bkigBzSmR91cNVF15Ep.png)
 
 Здесь мы соглашаемся с пользовательским соглашением. Тапаем по кнопке **同意**.
+![enter image description here](https://iimg.su/s/13/U8h0ObxKrijJAzX2ADclLJZW1QwO3hVRFlheilUR.png)
+Процесс скачивания приложения 1688 завершен!
+
+## 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzc2MjQxLC0yMDg4NzQ2NjEyLC0yMD
-g4NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzk0OTM3MDUsLTIwODg3NDY2MTIsLT
+IwODg3NDY2MTIsLTE4MTEzMDgyMl19
 -->
