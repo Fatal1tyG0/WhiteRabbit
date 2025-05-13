@@ -84,9 +84,20 @@
 
 **Поздравляем, верификация в приложении Alipay пройдена!**
 
+## Баланс и платежи в Alipay
+![enter image description here](https://iimg.su/s/13/P9MLDkPpgg0ZRQ8QaFIafajR6v0IAHP4jQhYPmGq.png)
+**1.** В личном кабинете в разделе  **«Balance»**  вы увидите сумму на вашем счете Alipay. Баланс можно пополнять только с китайских банковских карт или через перевод с другого аккаунта Alipay.
 
+**2.**  Доступная сумма на балансе Alipay.
+
+**3.**  Перевод на другой Alipay.
+
+**4.** История транзакций.
+
+**Поздравляем, ваш Alipay готов к использованию.**
+Надеемся, что данная инструкция была для Вас полезна! С любовью к Вам, команда WhiteRabbit!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjc3MzgzMSwtMjA4ODc0NjYxMiwtMT
-gxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbNTM0NDczMzgyLC0yMDg4NzQ2NjEyLC0xOD
+ExMzA4MjJdfQ==
 -->
