@@ -83,11 +83,14 @@
 
 ![enter image description here](https://iimg.su/s/13/guqKNdIXOyYWqqTlLx07RCn71MsQfDetsHfD4lqk.png)
 2. Подтвердите согласие с правилами площадки.
+![enter image description here](https://iimg.su/s/13/gAEfIi8tsOB2zWpJHCFIx1r1VWqIeQtZxst7d5RP.png)
+3. Нажмите в правом нижнем углу на кнопку входа.
+![enter image description here](https://iimg.su/s/13/P9tLhtBi9WFUlbDJwiVvMsWY0nj21csFcxAds2h0.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4OTQ2NDAwLC04MDQ0Mzc1MTcsLTM1ND
-MxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0NjYxMiwtMTgxMTMw
-ODIyXX0=
+eyJoaXN0b3J5IjpbLTEzNTg5MjM5MDMsLTgwNDQzNzUxNywtMz
+U0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODEx
+MzA4MjJdfQ==
 -->
