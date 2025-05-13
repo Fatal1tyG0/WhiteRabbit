@@ -35,11 +35,16 @@
 ## Регистрация в приложении 1688
 > Имеется 4 способа регистрации на сайте 1688, мы рассмотрим каждый из них. Так Вы сможете выбрать тот способ, который подходит наиболее Вам.
 
+Регистрируйтесь через мобильное приложение. Алгоритмы десктопной версии слишком строгие. Но в Google Play приложения 1688 нет. Скачать его нужно через официальный сайт — с компьютера, по QR-коду или мобильный браузер. Мы используем третий вариант.
+
+Зайдите через браузер телефона на сайт 1688.com → в левом верхнем углу выберете «мобильная версия» (手机阿里) → нажмите на окно, соответствующее операционной системе вашего телефона (Android или iPhone)
+
+![enter image description here](https://iimg.su/s/13/6Pd85zgrhqISlGCDyBd8b88lNPUMCSkC4mtcFf81.png)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODI2ODc2OSwtMzU0MzEyMjQ0LC0yMD
-g4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbNTgyMzMwMzgzLC0zNTQzMTIyNDQsLTIwOD
+g3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
 -->
