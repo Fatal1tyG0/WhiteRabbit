@@ -9,7 +9,7 @@
 
 ## Скачать приложение 1688(iOS)
 ![enter image description here](https://iimg.su/s/13/SBdF6suJiUk8BsirRkSQ7hphqFW7eBeSpaHAKS30.png)
-**Способ 1 - скачать приложение 1688**
+
 В браузере заходим в китайский поисковик [Baidu.com](https://dzen.ru/away?to=https%3A%2F%2Fwww.baidu.com%2F). Вводим в поиск 1688 App
 ![enter image description here](https://iimg.su/s/13/6NNfAVlMVr0T2LHZy1q6DT0y07JuEjYUawfDcPws.png)
 Вводим в поиск **1688 App**, нажимаем на кнопку **普通下载**, что означает простая загрузка.
@@ -23,9 +23,11 @@
 ![enter image description here](https://iimg.su/s/13/U8h0ObxKrijJAzX2ADclLJZW1QwO3hVRFlheilUR.png)
 Процесс скачивания приложения 1688 завершен!
 
-## 
+## Установка приложения 1688
+Заходим через браузер на сайт 1688.com и нажимаем на всплывающую кнопку.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk0OTM3MDUsLTIwODg3NDY2MTIsLT
-IwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbMTY4NTg0MjE1LC0yMDg4NzQ2NjEyLC0yMD
+g4NzQ2NjEyLC0xODExMzA4MjJdfQ==
 -->
