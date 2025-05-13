@@ -103,9 +103,15 @@
 
 8. Введите код из смс.
 
+![enter image description here](https://iimg.su/s/13/3kARQKhNY65doL5lPC53q0iNGShvToP7CGLPZTq7.png)
 
+9. Готово. Вот эти «tb и 10 цифр» — ваш логин.
+
+![enter image description here](https://iimg.su/s/13/qW9CpSgEZQKEQsveO95BpkjkgLJ0g4B3v7Phw2eh.png)
+
+> На этом можно закончить, и входить на 1688 через Таобао → на телефоне всё получится автоматически. Но так как мы будем входить на платформы и через компьютер, нужно задать пароль. Есть логин и пароль → заходим в систему с любого устройства. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNjc4NzE1LC04MDQ0Mzc1MTcsLTM1ND
-MxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0NjYxMiwtMTgxMTMw
-ODIyXX0=
+eyJoaXN0b3J5IjpbMTY5NzA5NDg2MCwtODA0NDM3NTE3LC0zNT
+QzMTIyNDQsLTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEz
+MDgyMl19
 -->
