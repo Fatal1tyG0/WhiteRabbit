@@ -38,7 +38,11 @@
 # Верификация аккаунта WeChat
 Для верификации WeChat нам понадобится действующий **загран паспорт**. Переходим в раздел **“Я”**, затем **“Службы” и “Кошелек”.**
 
+![enter image description here](https://iimg.su/s/13/S0qb191vL9AZXEtNgrwt6FihWzzhN6byQBUF6Crg.png)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzgzNjgxMCwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbLTIwODgzNTc0OTQsLTE4MTEzMDgyMl19
 -->
