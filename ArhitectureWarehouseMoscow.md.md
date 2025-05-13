@@ -28,7 +28,11 @@
 
 После этого нужно ввести проверочный код, который придет на указанный при регистрации номер телефона. Соглашаемся с условиями использования **WeChat**.
 
+![enter image description here](https://iimg.su/s/13/Y5tte7BDV2szoXYE2RdgDUlmkAvZRs5I1C2v5daf.png)
+
+Появится окно с сервисами WeChat, их можно не трогать, т.к. они нам не пригодятся, поэтому просто переходим **дальше**.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzI0MzQwXX0=
+eyJoaXN0b3J5IjpbLTIwNDkzMzc3OTVdfQ==
 -->
