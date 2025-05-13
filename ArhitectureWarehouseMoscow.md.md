@@ -133,9 +133,17 @@
 
 15. Теперь скачиваем приложение 1688 → переходим в окно регистрации (всё как в предыдущем способе). Только выбираем регистрацию через Таобао.
 
+![enter image description here](https://iimg.su/s/13/7Bom9nggjIMguS0Yj1cXAdOiYi93peeBM4zH5EQi.png)
+
+16. Система спросит, ваш ли это аккаунт → нажмите на верхнюю кнопку подтверждения.
+
+![enter image description here](https://iimg.su/s/13/XHDQlqZ5ILod8pqbNLDF1n9Ei1H1kz1uKPkQ6tY3.png)
+
+17. И еще разок «окнем».
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MjEzNDQwLC04OTA5NTY4NDksLTgwND
-QzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2
-NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTI5NzQyMjA5MSwtODkwOTU2ODQ5LC04MD
+Q0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0
+NjYxMiwtMTgxMTMwODIyXX0=
 -->
