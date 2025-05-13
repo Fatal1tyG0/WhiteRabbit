@@ -40,9 +40,16 @@
 
 ![enter image description here](https://iimg.su/s/13/S0qb191vL9AZXEtNgrwt6FihWzzhN6byQBUF6Crg.png)
 
+После этого нажимаем на кнопку **“Balance”** и приступаем к верификации. Далее вся навигация будет на английском языке, поэтому если возникнут трудности не  
+стесняйтесь воспользоваться переводчиком.
+
+![enter image description here](https://iimg.su/s/13/ap91lNJfYVtGDRuXJb7hWLHBrKtuwU2Z99yVLbrU.png)
+
+В открывшемся окне нажимаем на кнопку **“Verify Now”** и соглашаемся с политикой конфиденциальности по кнопке **“Agree”**.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgzNTc0OTQsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbLTE1OTE2MjAwMDEsLTE4MTEzMDgyMl19
 -->
