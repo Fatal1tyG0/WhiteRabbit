@@ -87,10 +87,19 @@
 3. Нажмите в правом нижнем углу на кнопку входа.
 ![enter image description here](https://iimg.su/s/13/P9tLhtBi9WFUlbDJwiVvMsWY0nj21csFcxAds2h0.png)
 
+4. Нажмите на яркие иероглифы справа — зарегистрироваться.
+
+![enter image description here](https://iimg.su/s/13/bNBytY9w8hyP5AcEVSp3CckkAbRQ9KaJnSW9bI4e.png)
+5. Из списка выберите Россию (+7). Будьте внимательны, Казахстан — тоже +7. Но нам нужно выбрать иероглифы **俄罗斯**. Это важно, иначе код подтверждения не придет.
+
+![enter image description here](https://iimg.su/s/13/0f1ow7qSMg5moJ8OsYHcxujrN9hHznyGN2g7zrFR.png)
+6. Введите номер телефона без пробелов → поставьте галочку внизу → нажмите «ок».
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg5MjM5MDMsLTgwNDQzNzUxNywtMz
-U0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODEx
-MzA4MjJdfQ==
+eyJoaXN0b3J5IjpbMTc4NzQyMjY1MSwtODA0NDM3NTE3LC0zNT
+QzMTIyNDQsLTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEz
+MDgyMl19
 -->
