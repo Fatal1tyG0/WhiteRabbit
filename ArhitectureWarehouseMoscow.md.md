@@ -77,9 +77,17 @@
 ---
 ### Способ 2. Через Таобао
 
+Таобао более лоялен к иностранцем, поэтому можно зарегистрироваться здесь и использовать аккаунт для входа на 1688. Тогда данные для входа на обе площадки будут одинаковыми.
+
+1. Скачайте приложение Таобао.
+
+![enter image description here](https://iimg.su/s/13/guqKNdIXOyYWqqTlLx07RCn71MsQfDetsHfD4lqk.png)
+2. Подтвердите согласие с правилами площадки.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMD
-g4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbNDQ4OTQ2NDAwLC04MDQ0Mzc1MTcsLTM1ND
+MxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0NjYxMiwtMTgxMTMw
+ODIyXX0=
 -->
