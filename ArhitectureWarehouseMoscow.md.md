@@ -26,7 +26,14 @@
 
 ---
 ## Регистрация аккаунта на российский номер телефона
+![enter image description here](https://iimg.su/s/13/pw4J0IzVVCI7ZvPOriBEZGILxExK1Riy8THfFN7h.png)
+1.  Нажимаем на обозначение кода страны «+86».
+2.  Пролистываем и из выпадающего списка выбираем код вашей страны.
+3.  Меняем код страны с «+86» на «+7» для России.
+
+**Ввод и подтверждение номера телефона**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTY5NDg1LC0yMDg4NzQ2NjEyLC0xOD
-ExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTYwNDcyNTIwOSwtMjA4ODc0NjYxMiwtMT
+gxMTMwODIyXX0=
 -->
