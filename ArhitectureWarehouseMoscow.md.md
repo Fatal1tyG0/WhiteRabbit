@@ -1,7 +1,7 @@
 # Инструкция по регистрации и установке WeChat в 2025 году
 1. [Установка WeChat](#Установка-WeChat)
 2. [Регистрация в WeChat](#Регистрация-в-WeChat)
-3. [Верификация аккаунта WeChat](##3)
+3. [Верификация аккаунта WeChat](#Верификация-аккаунта-WeChat)
 4. [Установка платежного пароля](##4)
 5. [Использование WeChat. Баланс и платежи](##5)
 6. [Изменение платежного пароля](##6)
@@ -142,7 +142,7 @@
 
 ![enter image description here](https://iimg.su/s/13/YM1LXhghgLCzHwhs5YmU225Zvn55aIqjMTavSPAj.png)
 
-Надеемся, что данная инструкция была для Вас полезна!!! С любовью к Вам, команда 
+Надеемся, что данная инструкция была для Вас полезна!!! С любовью к Вам, команда WhiteRabbit!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTA2NzMwNCwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbLTc0ODU0OTI4MCwtMTgxMTMwODIyXX0=
 -->
