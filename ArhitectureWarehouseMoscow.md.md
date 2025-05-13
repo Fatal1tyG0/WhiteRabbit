@@ -128,9 +128,14 @@
 ![enter image description here](https://iimg.su/s/13/BeCUXeBMsM7cVagryigCksnmPoO3Pm8MQL4JnVso.png)
 
 14. Введите пароль , состоящий из 6-20 символов: большие и маленькие английские буквы, цифры и символы. Например «China1215!». Повторите пароль и нажмите «ок».
- 
+
+![enter image description here](https://iimg.su/s/13/ae5y96Q00TCe6GNAKol6sD5HttwdPZGDkY9jmXVH.png)
+
+15. Теперь скачиваем приложение 1688 → переходим в окно регистрации (всё как в предыдущем способе). Только выбираем регистрацию через Таобао.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTYxNzMyNSwtODkwOTU2ODQ5LC04MD
-Q0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMjA4ODc0
-NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbNjc0MjEzNDQwLC04OTA5NTY4NDksLTgwND
+QzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2
+NjEyLC0xODExMzA4MjJdfQ==
 -->
