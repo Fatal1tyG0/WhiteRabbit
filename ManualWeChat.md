@@ -1,12 +1,12 @@
 ## Инструкция по регистрации и установки WeChat в 2025 году
-1. [just](#like-this-one)
-2. [just](#like-this-one)
-3[just](#like-this-one)
-[just](#like-this-one)
-[just](#like-this-one)
-[just](#like-this-one)
+1. [Установка WeСhat](#like-this-one)
+2. [Регистрация в WeChat](#like-this-one)
+3. [just](#like-this-one)
+4. [just](#like-this-one)
+5. [just](#like-this-one)
+6. [just](#like-this-one)
 > Из статьи вы подробно узнаете, как установить и зарегистрировать WeChat, как пройти верификацию, установить и изменить платежный пароль, расскажем про баланс и платежи.    
 Эта статья создана для тех, кто первый раз пытается пройти регистрацию в приложении WeChat и не хочет допустить лишних ошибок.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MjQyNzgxLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAwOTk1MjYxMywtMjA4ODc0NjYxMl19
 -->
