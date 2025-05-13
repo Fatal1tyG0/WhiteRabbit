@@ -32,8 +32,16 @@
 3.  Меняем код страны с «+86» на «+7» для России.
 
 **Ввод и подтверждение номера телефона**
+![enter image description here](https://iimg.su/s/13/NGG5OpWExK3ISFfexn7ls7cqx0NvI1mZhkXzup6s.png)
+**1.** Введите свой номер телефона и нажмите на синюю кнопку  **«Next»**.
+
+**2-3.** Примите условия использования приложения.
+![enter image description here](https://iimg.su/s/13/3IBEZtpYeefShheWqDfQnQOH0Ixzmctwf6Zud4E7.png)
+**4-5.** Введите код из SMS для подтверждения регистрации.
+
+**6.** Выберите страну или регион для вашего идентификатора.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDcyNTIwOSwtMjA4ODc0NjYxMiwtMT
-gxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbODU2NTYzNDI5LC0yMDg4NzQ2NjEyLC0xOD
+ExMzA4MjJdfQ==
 -->
