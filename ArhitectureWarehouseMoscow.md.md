@@ -7,10 +7,9 @@
 6. [Конкуренция с Китаем](#Конкуренция-с-Китаем)
 7. [Как платить налоги?](#Как-платить-налоги?)
 8. [Пример финансовой модели](#Пример-финансовой-модели)
-9. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjE4Njc2OSw0OTQxMzk5MzgsMzE3Mz
+eyJoaXN0b3J5IjpbMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3Mz
 Q2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0
 LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ
 ==
