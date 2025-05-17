@@ -8,9 +8,12 @@
 7. [Как платить налоги?](#Как-платить-налоги?)
 8. [Пример финансовой модели](#Пример-финансовой-модели)
 
+## Введение
+Ввиду последних новостей, которые на нашей памяти уже последний год с каждого утюга и в каждом углу звучат - что площадки пытаются завести Китайский бизнес на свои площадки и мы не сможем зарабатывать - мы решили сделать небольшой обзор оферты на примере 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3Mz
-Q2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0
-LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ
-==
+eyJoaXN0b3J5IjpbLTE4NTg0ODQ4MjIsMTIxMjc4MjYzMCw0OT
+QxMzk5MzgsMzE3MzQ2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUx
+NywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2NjEyLC
+0xODExMzA4MjJdfQ==
 -->
