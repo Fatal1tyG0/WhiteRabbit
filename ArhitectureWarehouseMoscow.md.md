@@ -1,9 +1,13 @@
 # Сравнение публичной оферты Wildberries Россия\Китай, или как продавать напрямую из Китая по системе FBS или FBO
-1. [Gk](#Основные-различия)
-2. 
+1. [Плюсы и минусы](#Плюсы-и-минусы)
+2. [Основные различия](#Основные-различия)
+3. [Разница в комиссии маркетплейса](#Разница-в-комиссии=маркетплейса)
+4. [Преимущества в ВЭД](#Преимущества-в-ВЭД)
+5. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NTgyODQwLDQ5NDEzOTkzOCwzMTczND
-Y1MTgsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQs
-LTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbMTkyNTI5MDYxOCw0OTQxMzk5MzgsMzE3Mz
+Q2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0
+LC0yMDg4NzQ2NjEyLC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ
+==
 -->
