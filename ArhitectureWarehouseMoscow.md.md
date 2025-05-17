@@ -1,7 +1,7 @@
-# Инструкция по онлайн проверке поставщика из Китая
+# Сравнение публичной оферты Wi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOT
-U2ODQ5LC04MDQ0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYx
-MiwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbODk1NDAzMzkxLDQ5NDEzOTkzOCwzMTczND
+Y1MTgsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQs
+LTIwODg3NDY2MTIsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
 -->
