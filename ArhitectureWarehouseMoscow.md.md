@@ -1,7 +1,9 @@
-
+# Архитектура работы модуля "Склад Москва"
+Краткое описание проекта
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTIsLTEyMzQ5NjM1NzQsMT
-IxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OTA5NTY4
-NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC
-0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTg2Mzk1NDAxNSwtMjA4ODc0NjYxMiwtMT
+IzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1
+MTgsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQsLT
+IwODg3NDY2MTIsLTE4MTEzMDgyMl19
 -->
