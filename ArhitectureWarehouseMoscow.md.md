@@ -9,10 +9,11 @@
 > 6) Видеть остатки, по которым выполнена работа;
 > 7) Создавать заявку на отгрузку товаров, с которыми проведена работа.
 Через модуль "Склад Москва" администратор может:
-1) 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODYyNTUzNywtMzM5NTQ3MDM4LC0yMD
-g4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0MTM5
-OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MTcsLT
-M1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMz
+M5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3
+ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC
+04MDQ0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgx
+MTMwODIyXX0=
 -->
