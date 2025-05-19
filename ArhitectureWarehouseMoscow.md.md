@@ -1,9 +1,12 @@
 # Архитектура работы модуля "Склад Москва"
 **Краткое описание проекта**
-> Модуль "Склад Москва" предназначен для работы с товарами (остатками на складе), как со стороны пользователя, так и со стороны администратора (менеджера).
+> Модуль "Склад Москва" предназначен для работы с товарами (остатками на складе), как со стороны пользователя, так и со стороны администратора (менеджера). Через модуль "Склад Москва" пользователь может:
+> 1) Отправить товары на приёмку (согласование) к администратору, для заведение остатков на склад;
+> 2) Получить подтверждение в приёмке;
+> 3) Увидеть товары, заведенные на приёмку - на остатка 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMT
-IzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1
-MTgsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQsLT
-IwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbLTQ2MDIxMzU1NCwtMzM5NTQ3MDM4LC0yMD
+g4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0MTM5
+OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MTcsLT
+M1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
 -->
