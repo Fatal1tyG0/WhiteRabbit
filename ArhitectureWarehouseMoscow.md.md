@@ -80,7 +80,7 @@
 1.3.4 Таблица цен погрузочно/разгрузочные работы. 
 
 ### 1.4 Инструкция по работе с разделом
-*Компонент* «ManualAcceptProduct”
+**Компонент** `ManualAcceptProduct`
 *Описание*:
 >Данный раздел несет в себе информативную часть для пользователя. В ней - он может получить информацию о том: для чего этот раздел. Как ему оформить заказ. Описаны ситуации на примерах, как и в каком случае оформить заказ. Как отслеживать заказ, как его и зачем изменять. В каком случае его стоит отменить. Какие статусы имеет заказ и что ему ждать после подтверждения администратора. 
 *Реализация*
@@ -91,9 +91,9 @@
 1.4.5 Видеоинструкция о том, что далее происходит с товаров и что нужно сделать
 1.4.6 текстовая инструкция о том, что далее происходит с товаров и что нужно сделать
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0MDQ3NCwtMTg3NzYxNjY2MSwxMjE4Nj
-I1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1
-NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OT
-A5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2
-NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbMTMzMDM2NDIzMCwtMTg3NzYxNjY2MSwxMj
+E4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5
+NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC
+04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4
+NzQ2NjEyLC0xODExMzA4MjJdfQ==
 -->
