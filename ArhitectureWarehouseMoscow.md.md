@@ -127,13 +127,13 @@
 У администратора для работы в данном разделе так же имеется компонент «Получен складом» - `RecivedOrderAll`, который перемещает товары со склада в раздел «Товары на складе». 
 Данная кнопка так-же должна находится в рабочей области компонента.
 Так-же у Администратора имеется в распоряжении кнопка «Получен складом с расхождением» - `RecivedOrderNonAll`. При нажатии на которую - администратор корректирует фактическое получение товара на складе (количество штук, коробок, название товара, объем, вес).
-Так-же администратор имеет в своем распоряжении кнопку (компонент) - Оплата приемка, компонент «PaymentAcceptionGoods”. 
+Так-же администратор имеет в своем распоряжении кнопку (компонент)  "Оплата приемка" - `PaymentAcceptionGoods`. 
 
 >Пока администратор не направил пользователю счет на оплату - товары из «Заказа на приемку товаров», остатки товаров не переместятся в компонент пользователя «Остатки товара».
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTMzMDY5ODYsLTE4Nzc2MTY2NjEsMT
-IxODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0
-OTYzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOC
-wtODkwOTU2ODQ5LC04MDQ0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4
-ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMT
+g2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2
+MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLT
+g5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQsLTIwODg3
+NDY2MTIsLTE4MTEzMDgyMl19
 -->
