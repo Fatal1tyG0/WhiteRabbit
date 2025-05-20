@@ -101,7 +101,7 @@
 
 ### 1.5 Рабочая область приемки товаров
 **Компонент** `WorkingAreaAcceptProduct`
-**Подкомпоненты** 
+**Подкомпоненты** `ApproveOrder`, `CancelOrder`, `ChangeOrder`, `RecivedOrderAll`, 
 **Описание** 
 >Данный компонент представляет из себя рабочую область администратора. Которая выполнена в виде таблицы. 
 В рабочей области администратор имеет возможность:
@@ -130,9 +130,9 @@
 
 >Пока администратор не направил пользователю счет на оплату - товары из «Заказа на приемку товаров», остатки товаров не переместятся в компонент пользователя «Остатки товара».
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTI0MTE5NCwtMTg3NzYxNjY2MSwxMj
-E4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5
-NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC
-04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4
-NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbNDE0MDMyODk0LC0xODc3NjE2NjYxLDEyMT
+g2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2
+MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLT
+g5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQsLTIwODg3
+NDY2MTIsLTE4MTEzMDgyMl19
 -->
