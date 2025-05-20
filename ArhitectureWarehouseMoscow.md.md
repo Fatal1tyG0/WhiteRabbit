@@ -1,7 +1,9 @@
 # Архитектура работы модуля "Склад Москва"
 **Оглавление**
 [Краткое описание проекта](#Краткое-описание-проекта)
-[
+Раздел «Отправка товаров на склад» на стороне пользователя.
+[1.1 Отправка товара на приемку](#1.1-Отправка-товара-на-приемку)
+[1.2  Согласование приемки](#1.2 -Согласование-приемки)
 
 ### Краткое описание проекта
 > Фронтенд часть должна быть написана на react typescript. Серверная часть должна быть написана на tapyorm nest js node js mysql. Название модуля «Склад Москва». Модуль состоит из 4 разделов: 1) Отправка товаров на склад; 2) Товары на складе; 3) Работа с товарами на складе; 4) Отгрузка товаров.
@@ -85,9 +87,9 @@
 1.4.5 Видеоинструкция о том, что далее происходит с товаров и что нужно сделать
 1.4.6 текстовая инструкция о том, что далее происходит с товаров и что нужно сделать
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDIzMzg4NSwtMTg3NzYxNjY2MSwxMj
-E4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5
-NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC
-04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4
-NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyMDI5MjQxMzcsLTE4Nzc2MTY2NjEsMT
+IxODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0
+OTYzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOC
+wtODkwOTU2ODQ5LC04MDQ0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4
+ODc0NjYxMiwtMTgxMTMwODIyXX0=
 -->
