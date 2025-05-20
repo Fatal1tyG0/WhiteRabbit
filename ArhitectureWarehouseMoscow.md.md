@@ -7,6 +7,7 @@
 [1.3 Прайс лист услуг «Склад Москва»](#1.3-Прайс-лист-услуг-«Склад-Москва»)
 [1.4 Инструкция по работе с разделом](#1.4-Инструкция-по-работе-с-разделом)
 2. «Отправка товаров на склад» на стороне **Администратора**
+[1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
 
 
@@ -98,7 +99,7 @@
 
 >Описание функционала раздела для администратора. У администратора отсутствует компонент «ProductDirection» и «AgreementProduct». Вместо этого, у администратора отображается компонент «WorkingAreaAcceptProduct”. 
 
-1.5 Рабочая область приемки товаров
+### 1.5 Рабочая область приемки товаров
 *Компонент* «WorkingAreaAcceptProduct»
 *Описание* 
 >Данный компонент представляет из себя рабочую область администратора. Которая выполнена в виде таблицы. 
@@ -128,9 +129,9 @@
 
 Пока администратор не направил пользователю счет на оплату - товары из «Заказа на приемку товаров», остатки товаров не переместятся в компонент пользователя «Остатки товара».
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDc3MDYyNywtMTg3NzYxNjY2MSwxMj
-E4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5
-NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC
-04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4
-NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzkwNjg0NjQsLTE4Nzc2MTY2NjEsMT
+IxODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0
+OTYzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOC
+wtODkwOTU2ODQ5LC04MDQ0Mzc1MTcsLTM1NDMxMjI0NCwtMjA4
+ODc0NjYxMiwtMTgxMTMwODIyXX0=
 -->
