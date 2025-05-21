@@ -107,7 +107,7 @@
 ### 2.1 Мои товары
 **Компонент** `MyGoods`
 **Описание:**
-
+>Данный раздел предназначен для работы с товарами (артикулами), где  
 
 
 ## Раздел №5 «Отправка товаров на склад» на стороне Администратора
@@ -149,10 +149,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MD
-YxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3
-MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2Mz
-AsNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0
-Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwOD
-IyXX0=
+eyJoaXN0b3J5IjpbMjk4NjE0NDg5LC05MjMwNzk3MTYsLTEzND
+Q1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1
+MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NC
+wxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1
+Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQsLTIwODg3NDY2MT
+IsLTE4MTEzMDgyMl19
 -->
