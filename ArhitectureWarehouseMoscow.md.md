@@ -6,14 +6,16 @@
 [1.2  Согласование приемки](#1.2-Согласование-приемки)
 [1.3 Прайс лист услуг «Склад Москва»](#1.3-Прайс-лист-услуг-«Склад-Москва»)
 [1.4 Инструкция по работе с разделом](#1.4-Инструкция-по-работе-с-разделом)
-2. "Товары на складе" на стороне **Пользователя**"
+2. "Товары на складе" на стороне **Пользователя**
 [2.1 Мои товары](#2.1-Мои-товары)
 [2.2 Мои остатки](#2.2-Мои-остатки)
 [2.3 Заявка на забор возвратов](#2.3-Заявка-на-забор-возвратов)
 [2.4 Вывоз остатков](#2.4-Вывоз-остатков)
 [2.5 Хранение остатков](#2.5-Хранение-остатков)
 [2.6 Инструкция по работе с разделом](#2.6-Инструкция-по-работе-с-разделом)
-4. Рабочая область  **Администратора** приложения
+3. "Работа с товарами на складе" на стороне **Пользователя**
+
+5. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
 
@@ -155,11 +157,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzIxNTkwNywtMTEwMjc2NDI4LC01Nj
-Q4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAy
-NjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC
-0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0
-MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MT
-csLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+eyJoaXN0b3J5IjpbLTIxMDA4NTMxOTEsLTExMDI3NjQyOCwtNT
+Y0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIw
+MjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOC
+wtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5
+NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwtODA0NDM3NT
+E3LC0zNTQzMTIyNDQsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
 
 -->
