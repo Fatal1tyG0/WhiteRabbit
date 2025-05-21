@@ -108,7 +108,7 @@
 **Компонент** `WorkingAreaAcceptProduct`
 **Подкомпоненты** `ApproveOrder`, `CancelOrder`, `ChangeOrder`, `RecivedOrderAll`, `RecivedOrderNonAll`, `PaymentAcceptionGoods`
 **Описание** 
->Данный компонент представляет из себя рабочую область администратора. Которая выполнена в виде таблицы, в которой отображены
+>Данный компонент представляет из себя рабочую область администратора. Которая выполнена в виде таблицы, в которой отображены, с указанием компонента - заказы пользователей. Например: Согласование приемки товаров, Заказ на вывоз остатков и пр. В данной области администратор работает с заказами клиентов, а так-же принимает иные решения, в которых есть необходимость.
 
 В рабочей области администратор имеет возможность:
 1. создать заказ от имени пользователя (вызвать компонент «ProductDirection»), о чем имеется соответствующая кнопка. Данная форма имеет свойства как указаны ранее в компоненте, но при этом администратор может привязать к заказу на приемку пользователя (если он зарегистрирован и заполнил форму регистрации)+компания пользователя. Заказ от имени пользователя администратором создается с добавлением к форме: номера клиента (пользователя), осуществляется поиск по базе пользователей по имени пользователя, которое он указал ранее, либо по добавленной пользователем компании (которая приклепляется к пользователю);
@@ -139,10 +139,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0Mzk5ODAsLTEzNDQ1MjAwMTcsNjA2MT
-IwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAz
-OCwtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLD
-Q5NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwtODA0NDM3
-NTE3LC0zNTQzMTIyNDQsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl
-19
+eyJoaXN0b3J5IjpbLTYyOTIxNDQ1MywtMTM0NDUyMDAxNyw2MD
+YxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3
+MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2Mz
+AsNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0
+Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwOD
+IyXX0=
 -->
