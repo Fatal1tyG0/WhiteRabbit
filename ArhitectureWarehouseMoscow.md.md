@@ -1,6 +1,8 @@
 # Архитектура работы модуля "Склад Москва"
 **Оглавление**
 [Краткое описание проекта](#Краткое-описание-проекта)
+[Цели проекта](#Цели-проекта)
+[Задачи проекта](#Задачи-проекта)
 1. "Отправка товаров на склад" на стороне **Пользователя**
 [1.1 Отправка товара на приемку](#1.1-Отправка-товара-на-приемку)
 [1.2  Согласование приемки](#1.2-Согласование-приемки)
@@ -167,11 +169,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzM5MDIxMywtMTEwMjc2NDI4LC01Nj
-Q4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAy
-NjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC
-0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0
-MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MT
-csLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
-
+eyJoaXN0b3J5IjpbLTg4NTkyNjM2MywxMzU3MzkwMjEzLC0xMT
+AyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC0xMzQ0NTIw
+MDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1NTM3LC
+0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1NzQsMTIx
+Mjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OTA5NTY4ND
+ksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0x
+ODExMzA4MjJdfQ==
 -->
