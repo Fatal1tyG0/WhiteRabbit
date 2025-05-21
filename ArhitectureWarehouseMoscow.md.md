@@ -7,7 +7,7 @@
 [1.3 Прайс лист услуг «Склад Москва»](#1.3-Прайс-лист-услуг-«Склад-Москва»)
 [1.4 Инструкция по работе с разделом](#1.4-Инструкция-по-работе-с-разделом)
 2. "Товары на складе" на стороне **Пользователя**"
-[2.1 Мои товары](#Мои-товары)
+[2.1 Мои товары](#2.1-Мои-товары)
 4. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
@@ -104,6 +104,10 @@
 
 ## Раздел №2 "Товары на складе"
 
+### 2.1 Мои товары
+**Компонент** `MyGoods`
+**Описание:**
+
 
 
 ## Раздел №5 «Отправка товаров на склад» на стороне Администратора
@@ -145,10 +149,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDYwNjUxLC0xMzQ0NTIwMDE3LDYwNj
-EyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1NTM3LC0zMzk1NDcw
-MzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1NzQsMTIxMjc4MjYzMC
-w0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OTA5NTY4NDksLTgwNDQz
-NzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0xODExMzA4Mj
-JdfQ==
+eyJoaXN0b3J5IjpbLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MD
+YxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3
+MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2Mz
+AsNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0
+Mzc1MTcsLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwOD
+IyXX0=
 -->
