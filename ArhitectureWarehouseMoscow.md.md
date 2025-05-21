@@ -14,7 +14,10 @@
 [2.5 Хранение остатков](#2.5-Хранение-остатков)
 [2.6 Инструкция по работе с разделом](#2.6-Инструкция-по-работе-с-разделом)
 3. "Работа с товарами на складе" на стороне **Пользователя**
-
+[3.1 Заказ на работу с товаром](#3.1-Заказ-на-работу-с-товаром)
+[3.2 Активные заказы](#3.2-Активные-заказы)
+[3.3 Завершенные заказы](#3.3-Завершенные-заказы)
+[3.4 
 5. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
@@ -157,11 +160,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA4NTMxOTEsLTExMDI3NjQyOCwtNT
-Y0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIw
-MjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOC
-wtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5
-NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwtODA0NDM3NT
-E3LC0zNTQzMTIyNDQsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbLTYxNTQ0NDcyMCwtMTEwMjc2NDI4LC01Nj
+Q4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAy
+NjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC
+0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0
+MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MT
+csLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
 
 -->
