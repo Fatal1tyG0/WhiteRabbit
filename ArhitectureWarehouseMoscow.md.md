@@ -23,6 +23,8 @@
 [4.2 График отгрузок](#4.2-График-отгрузок)
 [4.3 Отгрузки в пути](#4.3-Отгрузки-в-пути)
 [4.4 Завершенные отгрузки](#4.4-Завершенные-отгрузки)
+[4.5 Создать заказ на отгрузку](#4.5-Создать-заказ-на-отгрузку)
+[4.6 Инструкция по работе с разделом](#4.6-Инструкция-по-работе-с-разделом)
 6. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
@@ -165,7 +167,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzA2Mzk1MCwtMTEwMjc2NDI4LC01Nj
+eyJoaXN0b3J5IjpbMTM1NzM5MDIxMywtMTEwMjc2NDI4LC01Nj
 Q4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAy
 NjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC
 0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0
