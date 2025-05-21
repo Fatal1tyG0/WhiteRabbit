@@ -8,6 +8,9 @@
 [1.4 Инструкция по работе с разделом](#1.4-Инструкция-по-работе-с-разделом)
 2. "Товары на складе" на стороне **Пользователя**"
 [2.1 Мои товары](#2.1-Мои-товары)
+[2.2 Мои остатки](#2.2-Мои-остатки)
+[2.3 Заявка на забор возвратов](#2.3-Заявка-на-забор-возвратов)
+[2.4 Вывоз остатков](#2.4-Вывоз-остатков)
 4. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
@@ -150,10 +153,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05Mj
-MwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2
-NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMi
-wtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTcz
-NDY1MTgsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyND
-QsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbLTg3ODc0NTA0OCwtMTEwMjc2NDI4LC01Nj
+Q4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAy
+NjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC
+0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0
+MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MT
+csLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
+
 -->
