@@ -28,9 +28,9 @@
 
 ### 1.1 Отправка товара на приемку
 **Раздел** `ProductDirection`
-**Компоненты** `Goods`, `TransportDelivery`,
-**Описание**
->  Данная функция предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользовалю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
+**Компоненты** `UnionProduction`, `Goods` , TransportDelivery`,
+**Описание раздела**
+>  Данный раздел предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользовалю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
 
 **Реализация компонента**
 Пользователь заполняет форму, с вышеуказанными характеристиками, которая передается в функцию 1.2 «Согласование приемки товара». В форму возможно добавить неограниченное количество товаров, они имеют нумерацию (пример: товар #1, товар #2 и т.д)
@@ -150,10 +150,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDgzMTc0NywtOTIzMDc5NzE2LC0xMz
-Q0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1
-NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1Nz
-QsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OTA5
-NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2Nj
-EyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzI3MjEwMDMsLTU2NDgzMTc0NywtOT
+IzMDc5NzE2LC0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYx
+NjY2MSwxMjE4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MT
+IsLTEyMzQ5NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3
+MzQ2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMj
+Q0LC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ==
 -->
