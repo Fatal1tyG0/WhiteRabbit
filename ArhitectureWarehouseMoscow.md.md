@@ -27,8 +27,8 @@
 ## 1. Раздел «Отправка товаров на склад» на стороне пользователя. 
 
 ### 1.1 Отправка товара на приемку
-**Раздел** `ProductDirection`
-**Компоненты** `UnionProduction`, `Goods` , TransportDelivery`,
+**Раздел (модуль)** `ProductDirection`
+**Компоненты** `UnionProduction`, `Goods` , `TransportDelivery`,
 **Описание раздела**
 >  Данный раздел предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользовалю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
 
@@ -150,10 +150,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI3MjEwMDMsLTU2NDgzMTc0NywtOT
-IzMDc5NzE2LC0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYx
-NjY2MSwxMjE4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MT
-IsLTEyMzQ5NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3
-MzQ2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0MzEyMj
-Q0LC0yMDg4NzQ2NjEyLC0xODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05Mj
+MwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2
+NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMi
+wtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTcz
+NDY1MTgsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyND
+QsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
 -->
