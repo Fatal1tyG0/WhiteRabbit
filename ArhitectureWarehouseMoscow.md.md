@@ -19,7 +19,8 @@
 [3.3 Завершенные заказы](#3.3-Завершенные-заказы)
 [3.4 Инструкция по работе с разделом](#3.4-Инструкция-по-работе-с-разделом)
 4. "Отгрузка товаров" на стороне **Пользователя**
-
+[4.1 Готовые заказы к отгрузке](#4.1-Готовые-заказы-к-отгрузке)
+[4.2 График отгрузок](#4.2-Графи
 6. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
@@ -162,7 +163,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYxNDEzMjksLTExMDI3NjQyOCwtNT
+eyJoaXN0b3J5IjpbLTEzODcyNzU3MTQsLTExMDI3NjQyOCwtNT
 Y0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIw
 MjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOC
 wtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5
