@@ -20,7 +20,9 @@
 [3.4 Инструкция по работе с разделом](#3.4-Инструкция-по-работе-с-разделом)
 4. "Отгрузка товаров" на стороне **Пользователя**
 [4.1 Готовые заказы к отгрузке](#4.1-Готовые-заказы-к-отгрузке)
-[4.2 График отгрузок](#4.2-Графи
+[4.2 График отгрузок](#4.2-График-отгрузок)
+[4.3 Отгрузки в пути](#4.3-Отгрузки-в-пути)
+[4.4 Завершенные отгрузки](#4.4-Завершенные-отгрузки)
 6. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
@@ -163,11 +165,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODcyNzU3MTQsLTExMDI3NjQyOCwtNT
-Y0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIw
-MjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOC
-wtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5
-NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwtODA0NDM3NT
-E3LC0zNTQzMTIyNDQsLTIwODg3NDY2MTIsLTE4MTEzMDgyMl19
+eyJoaXN0b3J5IjpbMTQ0MzA2Mzk1MCwtMTEwMjc2NDI4LC01Nj
+Q4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAy
+NjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC
+0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0
+MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MT
+csLTM1NDMxMjI0NCwtMjA4ODc0NjYxMiwtMTgxMTMwODIyXX0=
 
 -->
