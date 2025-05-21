@@ -28,7 +28,7 @@
 
 ### 1.1 Отправка товара на приемку
 **Раздел** `ProductDirection`
-**Компоненты** `Goods`, 
+**Компоненты** `Goods`, `TransportDelivery`,
 **Описание**
 >  Данная функция предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользовалю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
 
@@ -150,7 +150,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODQzMTAxNCwtOTIzMDc5NzE2LC0xMz
+eyJoaXN0b3J5IjpbLTU2NDgzMTc0NywtOTIzMDc5NzE2LC0xMz
 Q0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1
 NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1Nz
 QsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OTA5
