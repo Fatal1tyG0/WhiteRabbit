@@ -11,6 +11,8 @@
 [2.2 Мои остатки](#2.2-Мои-остатки)
 [2.3 Заявка на забор возвратов](#2.3-Заявка-на-забор-возвратов)
 [2.4 Вывоз остатков](#2.4-Вывоз-остатков)
+[2.5 Хранение остатков](#2.5-Хранение-остатков)
+[2.6 Инструкция по работе с разделом](#2.6-Инструкция-по-работе-с-разделом)
 4. Рабочая область  **Администратора** приложения
 [1.5 Рабочая область приемки товаров](#1.5-Рабочая-область-приемки-товаров)
 
@@ -153,7 +155,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODc0NTA0OCwtMTEwMjc2NDI4LC01Nj
+eyJoaXN0b3J5IjpbLTQ3NzIxNTkwNywtMTEwMjc2NDI4LC01Nj
 Q4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAy
 NjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC
 0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0
