@@ -100,7 +100,7 @@
 
 ### 1.2  Согласование приемки 
 **Раздел** `AgreementProductWorkSpace`
-**Компонент** 
+**Компонент** `UnionProductionInWork`
 **Описание**
 >Данный раздел предназначен для мониторинга процесса согласование заведения остатков на склад пользователем. В ходе согласования пользователь может дополнить приемку (например когда доставка товаров осуществляется такси, в этом случае он может добавить номер телефона водителя, Марку машины, номер машины, ссылку на заказ доставки в такси), что бы администратор мог согласовать и организовать приемку. Пользователь может изменить характеристики приемки до подтверждения ее администратором, в последующем все изменения в приемку вносятся с утверждения администратора.
 
@@ -114,6 +114,9 @@
 - Получает визуальную информацию о статусе заказа на приёмку товаров (До утверждения администратором имеет статус - "На согласовании", после утверждения - "Заказ утвержден".
 >После утверждения "Заказа на приёмку товаров" - он отображается в разделе - "Архив приёмки".
 - В данном разделе присутствует вкладка "Архив приёмок", который отображает ранее одобренные, отмененные (Удаленные пользователем).
+
+**Описание компонента** `UnionProductionInWork`
+>Lfyy
 
 **Реализация компонента**
 Данный компонент визуально реализован в виде таблицы, со строками, которые отображают следующие свойства приемки:
@@ -198,11 +201,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzg1MTkzMywtMjgxMjIyOTU0LC0xMz
-U1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3Mzkw
-MjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC
-0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4
-NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5Nj
-M1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04
-OTA5NTY4NDldfQ==
+eyJoaXN0b3J5IjpbLTIxMTc1NTExNTcsLTI4MTIyMjk1NCwtMT
+M1NTEzMjk1OSwtNTM4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5
+MDIxMywtMTEwMjc2NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNi
+wtMTM0NDUyMDAxNyw2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIx
+ODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OT
+YzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwt
+ODkwOTU2ODQ5XX0=
 -->
