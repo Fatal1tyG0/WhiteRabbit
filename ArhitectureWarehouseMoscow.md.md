@@ -55,7 +55,7 @@
 
 **Описание компонентов модуля**
 **Компонент** `UnionProduction` представляет из себя итоговую информацию (заказ на приёмку), которую формирует пользователь, он консолидирует в себе информацию об компонентах `Goods` и `AcceptanceDelivery`. 
-**Компонент** 
+**Компонент** `Goods` представляет из себя сам товар
 
 **Реализация компонентов**
 Пользователь заполняет форму, с вышеуказанными характеристиками, которая передается в функцию 1.2 «Согласование приемки товара». В форму возможно добавить неограниченное количество товаров, они имеют нумерацию (пример: товар #1, товар #2 и т.д)
@@ -175,7 +175,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjU2NTE0OSwtNTM4NDIxNTM1LC04OD
+eyJoaXN0b3J5IjpbMTc3MTQxNTY3NywtNTM4NDIxNTM1LC04OD
 U5MjYzNjMsMTM1NzM5MDIxMywtMTEwMjc2NDI4LC01NjQ4MzE3
 NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAyNjYsLT
 E4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4
