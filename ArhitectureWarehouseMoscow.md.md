@@ -116,7 +116,8 @@
 - В данном разделе присутствует вкладка "Архив приёмок", который отображает ранее одобренные, отмененные (Удаленные пользователем).
 
 **Описание компонента** `UnionProductionInWork` 
-он содержит в спредставляет из себя собирательный объект, который содержит в себе все свойства введённые пользователем, но является более подробным. Данный компонент отображается в рабочей области (разделе) `AgreementProduct` по разному, а именно:
+он содержит в себе компоненты:
+- представляет из себя собирательный объект, который содержит в себе все свойства компонентов введённые пользователем, но является более подробным. Данный компонент отображается в рабочей области (разделе) `AgreementProduct` по разному, а именно:
 - Носит информативный характер при открытии таблицы "Согласование приёмки", а именно отображает итоговые свойства без разделения на товары. Он является кликабельным и пользователь может взаимодействовать с ним.
 - При нажатии на компонент в рабочей области (разделе) на компонент `UnionProductionInWork` пользователю открывается подробная информация в виде карточек, в которых около каждого товара указаны ранее введённые им свойства и рядом с каждым имеется значок редактирования.
 - 
@@ -205,11 +206,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTQ1MjU1MywtMjgxMjIyOTU0LC0xMz
-U1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3Mzkw
-MjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC
-0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4
-NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5Nj
-M1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04
-OTA5NTY4NDldfQ==
+eyJoaXN0b3J5IjpbLTE1MzE5NTk4NDYsLTI4MTIyMjk1NCwtMT
+M1NTEzMjk1OSwtNTM4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5
+MDIxMywtMTEwMjc2NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNi
+wtMTM0NDUyMDAxNyw2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIx
+ODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OT
+YzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwt
+ODkwOTU2ODQ5XX0=
 -->
