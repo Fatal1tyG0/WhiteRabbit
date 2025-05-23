@@ -106,8 +106,12 @@
 **Описание раздела** `AgreementProduct`
 В ходе перемещения компонента `UnionProduction` в данный раздел пользователь может:
 - Изменить изначально введенные свойства компонента (Название товара, его количество и т.д);
+>В случае изменения - пользователю предлагается форма, в которой он может изменить ранее назначенные свойства. После изменения, администратору направляется уведомление об изменении, которые он должен утвердить. После внесения изменений статус «Заказа на приемку» меняется на «На утверждении», после утверждения администраторов «Согласовано». 
+>кроме слежения и изменения (корректировки) ранее внесенных свойств данный раздел никакого функционала не несет. 
 - Отменить процесс ожидания согласования администратором (Приёмка удаляется после создания);
 >В случаем отмены приемки заказ полностью удаляется, и нигде не отображается.
+- Получает визуальную информацию о статусе заказа на приёмку товаров (До утверждения администратором имеет статус - "На согласовании", после утверждения - "Заказ утвержден".
+>После утверждения "Заказа на приёмку товаров" - он о
 
 **Реализация компонента**
 Данный компонент визуально реализован в виде таблицы, со строками, которые отображают следующие свойства приемки:
@@ -195,11 +199,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTQ0NTAwMCwtMTM1NTEzMjk1OSwtNT
-M4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5MDIxMywtMTEwMjc2
-NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNy
-w2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5
-NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3OD
-I2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04
-MDQ0Mzc1MTddfQ==
+eyJoaXN0b3J5IjpbLTE0OTE2MDc1NDgsLTEzNTUxMzI5NTksLT
+UzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3
+NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMT
+csNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMz
+OTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNz
+gyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwt
+ODA0NDM3NTE3XX0=
 -->
