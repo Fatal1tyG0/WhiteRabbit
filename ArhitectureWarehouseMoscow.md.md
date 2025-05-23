@@ -135,7 +135,7 @@
 1.2.5 Дата прибытия груза;
 1.2.6 Способ прибытия груза; 
 
-**При нажатии** на компонент `UnionProduction`  в рабочей области `AgreementProduct` открывается полная информация о свойствах компонента, где пользователь может взаимодействовать с формой.
+**При нажатии** на компонент `UnionProduction`  в рабочей области `AgreementProduct` открывается полная информация о свойствах компонента, где пользователь может взаимодействовать с формой. Компонент имеет статус 
 
 
 
@@ -212,11 +212,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODEyMzEzNiwtNjU4NDcxNDYwLC0yOD
-EyMjI5NTQsLTEzNTUxMzI5NTksLTUzODQyMTUzNSwtODg1OTI2
-MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC
-05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3
-NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0Nj
-YxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwz
-MTczNDY1MThdfQ==
+eyJoaXN0b3J5IjpbLTEyMzM0MDEzNDUsLTM0ODEyMzEzNiwtNj
+U4NDcxNDYwLC0yODEyMjI5NTQsLTEzNTUxMzI5NTksLTUzODQy
+MTUzNSwtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOC
+wtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2
+MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0Nz
+AzOCwtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMw
+LDQ5NDEzOTkzOF19
 -->
