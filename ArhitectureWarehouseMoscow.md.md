@@ -116,14 +116,14 @@
 >После утверждения "Заказа на приёмку товаров" - он отображается в разделе - "Архив приёмки".
 - В данном разделе присутствует вкладка "Архив приёмок", который отображает ранее одобренные, отмененные (Удаленные пользователем).
 
-**Описание компонента** `UnionProductionInWork` 
+**Описание компонента** `UnionProduction` 
 он содержит в себе компоненты:
 - `Goods`
 - `AcceptanceDelivery`
 представляет из себя собирательный объект, который содержит в себе все свойства компонентов введённые пользователем, но является более подробным. Данный компонент отображается в рабочей области (разделе) `AgreementProduct` по разному, а именно:
 - Носит информативный характер при открытии таблицы "Согласование приёмки", а именно отображает итоговые свойства без разделения на товары. Он является кликабельным и пользователь может взаимодействовать с ним.
-- При нажатии на компонент в рабочей области (разделе) на компонент `UnionProductionInWork` пользователю открывается подробная информация в виде карточек, в которых около каждого товара указаны ранее введённые им свойства и рядом с каждым имеется значок редактирования.
-- 
+- При нажатии на компонент в рабочей области (разделе) на компонент `UnionProduction` пользователю открывается подробная информация в виде карточек (компонент `Goods`, в которых около каждого товара указаны ранее введённые им свойства и рядом с каждым имеется значок редактирования. Ря
+
 
 
 **Реализация компонента**
@@ -209,11 +209,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzc1NjUwNywtMjgxMjIyOTU0LC0xMz
-U1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3Mzkw
-MjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC
-0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4
-NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5Nj
-M1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04
-OTA5NTY4NDldfQ==
+eyJoaXN0b3J5IjpbNTU0NzMxNzc1LC0yODEyMjI5NTQsLTEzNT
+UxMzI5NTksLTUzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAy
+MTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLT
+EzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2
+MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2Mz
+U3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5
+MDk1Njg0OV19
 -->
