@@ -150,6 +150,8 @@
 1.3.3 Таблица цен на оказанные работы;
 1.3.4 Таблица цен погрузочно/разгрузочные работы. 
 
+
+
 ### 1.4 Инструкция по работе с разделом
 **Раздел** `ManualAcceptProduct`
 *Описание*:
@@ -210,11 +212,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODQ3MTQ2MCwtMjgxMjIyOTU0LC0xMz
-U1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3Mzkw
-MjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC
-0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4
-NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5Nj
-M1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04
-OTA5NTY4NDldfQ==
+eyJoaXN0b3J5IjpbLTM0ODEyMzEzNiwtNjU4NDcxNDYwLC0yOD
+EyMjI5NTQsLTEzNTUxMzI5NTksLTUzODQyMTUzNSwtODg1OTI2
+MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC
+05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3
+NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0Nj
+YxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwz
+MTczNDY1MThdfQ==
 -->
