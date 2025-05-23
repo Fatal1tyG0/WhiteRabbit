@@ -55,6 +55,9 @@
 
 **Описание компонентов модуля**
 **Компонент** `UnionProduction` представляет из себя итоговую информацию (заказ на приёмку), которую формирует пользователь, он консолидирует в себе информацию об компонентах `Goods` и `AcceptanceDelivery`. 
+После заполнения формы и передачи её в рабочую область администратора, пользователь имеет возможность:
+- Изменить свойства одного из компонентов;
+- Отменить передачу компонента на согла
 
 **Компонент** `Goods` представляет из себя сам товар, все свойства, которые ранее указал пользователь, а именно:
 - Название товара;
@@ -186,11 +189,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE1ODg1NTcsLTEzNTUxMzI5NTksLT
-UzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3
-NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMT
-csNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMz
-OTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNz
-gyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwt
-ODA0NDM3NTE3XX0=
+eyJoaXN0b3J5IjpbMzM3ODcwOTc4LC0xMzU1MTMyOTU5LC01Mz
+g0MjE1MzUsLTg4NTkyNjM2MywxMzU3MzkwMjEzLC0xMTAyNzY0
+MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC0xMzQ0NTIwMDE3LD
+YwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1NTM3LC0zMzk1
+NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1NzQsMTIxMjc4Mj
+YzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OTA5NTY4NDksLTgw
+NDQzNzUxN119
 -->
