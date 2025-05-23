@@ -51,10 +51,10 @@
 
 ---
 **Описание раздела** `ProductDirection`
->  Данный раздел предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользователь помещает остатки своего товара на склад, а так-же пользователю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
+>  Данный раздел предназначена для помещения товаров на склад, представляет из себя форму, необходимую для заполнения. В него входят компоненты указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользователь помещает остатки своего товара на склад, а так-же пользователю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
 
 **Описание компонентов модуля**
-
+*компонент* 
 
 **Реализация компонентов**
 Пользователь заполняет форму, с вышеуказанными характеристиками, которая передается в функцию 1.2 «Согласование приемки товара». В форму возможно добавить неограниченное количество товаров, они имеют нумерацию (пример: товар #1, товар #2 и т.д)
@@ -174,11 +174,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNDAxMzc2LC01Mzg0MjE1MzUsLTg4NT
-kyNjM2MywxMzU3MzkwMjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0
-NywtOTIzMDc5NzE2LC0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMT
-g3NzYxNjY2MSwxMjE4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3
-NDY2MTIsLTEyMzQ5NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5Mz
-gsMzE3MzQ2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0
-MzEyMjQ0XX0=
+eyJoaXN0b3J5IjpbLTkxNDg3NTI0NiwtNTM4NDIxNTM1LC04OD
+U5MjYzNjMsMTM1NzM5MDIxMywtMTEwMjc2NDI4LC01NjQ4MzE3
+NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAyNjYsLT
+E4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4
+NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OT
+M4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MTcsLTM1
+NDMxMjI0NF19
 -->
