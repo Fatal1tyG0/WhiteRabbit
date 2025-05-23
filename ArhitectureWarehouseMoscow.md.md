@@ -134,7 +134,8 @@
 1.2.5 Дата прибытия груза;
 1.2.6 Способ прибытия груза; 
 
-**Использование компонента**
+**При нажатии** на компонент `UnionProduction`  в рабочей области `AgreementProduct` открывается полная информация о свойствах компонента, где пользователь может взаимодействовать с формой.
+
 
 
 ### 1.3 Прайс лист услуг «Склад Москва» 
@@ -208,11 +209,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMwNzYxNDIsLTI4MTIyMjk1NCwtMT
-M1NTEzMjk1OSwtNTM4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5
-MDIxMywtMTEwMjc2NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNi
-wtMTM0NDUyMDAxNyw2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIx
-ODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OT
-YzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwt
-ODkwOTU2ODQ5XX0=
+eyJoaXN0b3J5IjpbMjUyMzUyNzg1LC0yODEyMjI5NTQsLTEzNT
+UxMzI5NTksLTUzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAy
+MTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLT
+EzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2
+MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2Mz
+U3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5
+MDk1Njg0OV19
 -->
