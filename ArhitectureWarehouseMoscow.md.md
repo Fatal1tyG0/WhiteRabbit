@@ -111,7 +111,8 @@
 - Отменить процесс ожидания согласования администратором (Приёмка удаляется после создания);
 >В случаем отмены приемки заказ полностью удаляется, и нигде не отображается.
 - Получает визуальную информацию о статусе заказа на приёмку товаров (До утверждения администратором имеет статус - "На согласовании", после утверждения - "Заказ утвержден".
->После утверждения "Заказа на приёмку товаров" - он о
+>После утверждения "Заказа на приёмку товаров" - он отображается в разделе - "Архив приёмки".
+- В данном разделе присутствует вкладка "Архив приёмок", который отображает ранее одобренные, отмененные (Удаленные пользователем).
 
 **Реализация компонента**
 Данный компонент визуально реализован в виде таблицы, со строками, которые отображают следующие свойства приемки:
@@ -199,11 +200,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE2MDc1NDgsLTEzNTUxMzI5NTksLT
-UzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3
-NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMT
-csNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMz
-OTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNz
-gyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwt
-ODA0NDM3NTE3XX0=
+eyJoaXN0b3J5IjpbLTU3MDE2MTE4NSwtMTM1NTEzMjk1OSwtNT
+M4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5MDIxMywtMTEwMjc2
+NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNy
+w2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5
+NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3OD
+I2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04
+MDQ0Mzc1MTddfQ==
 -->
