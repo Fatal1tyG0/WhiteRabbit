@@ -47,9 +47,9 @@
 
 ### 1.1 Отправка товара на приемку
 **Раздел (модуль)** `ProductDirection`
-**Компоненты** `UnionProduction`, `Goods` , `TransportDelivery`,
+**Компоненты** `UnionProduction`, `Goods` , `AcceptanceDelivery`,
 **Описание раздела**
->  Данный раздел предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользовалю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
+>  Данный раздел предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользователю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
 
 **Реализация компонента**
 Пользователь заполняет форму, с вышеуказанными характеристиками, которая передается в функцию 1.2 «Согласование приемки товара». В форму возможно добавить неограниченное количество товаров, они имеют нумерацию (пример: товар #1, товар #2 и т.д)
@@ -169,11 +169,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTkyNjM2MywxMzU3MzkwMjEzLC0xMT
-AyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC0xMzQ0NTIw
-MDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1NTM3LC
-0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1NzQsMTIx
-Mjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04OTA5NTY4ND
-ksLTgwNDQzNzUxNywtMzU0MzEyMjQ0LC0yMDg4NzQ2NjEyLC0x
-ODExMzA4MjJdfQ==
+eyJoaXN0b3J5IjpbLTg1NTk3OTY1OCwtODg1OTI2MzYzLDEzNT
+czOTAyMTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3
+MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLD
+EyMTg2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIz
+NDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MT
+gsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQsLTIw
+ODg3NDY2MTJdfQ==
 -->
