@@ -33,7 +33,7 @@
 
 
 ### Краткое описание проекта
-> Фронтенд часть должна быть написана на react typescript. Серверная часть должна быть написана на tapeorm nest js node js mysql. Название модуля «Склад Москва». 
+> Фронтенд часть должна быть написана на react typescript. Серверная часть должна быть написана на typeORM nest js node js mysql. Название модуля «Склад Москва». 
 Приложение даёт каждому пользователю определенные права, которые разделяются на:
 >1) Пользователь;
 >2) Администратор;
@@ -210,7 +210,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkwMTAyMCwtMjgxMjIyOTU0LC0xMz
+eyJoaXN0b3J5IjpbLTY1ODQ3MTQ2MCwtMjgxMjIyOTU0LC0xMz
 U1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3Mzkw
 MjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC
 0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4
