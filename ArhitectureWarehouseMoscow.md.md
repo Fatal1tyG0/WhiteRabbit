@@ -123,8 +123,7 @@
 представляет из себя собирательный объект, который содержит в себе все свойства компонентов введённые пользователем, но является более подробным. Данный компонент отображается в рабочей области (разделе) `AgreementProduct` по разному, а именно:
 - Носит информативный характер при открытии таблицы "Согласование приёмки", а именно отображает итоговые свойства без разделения на товары. Он является кликабельным и пользователь может взаимодействовать с ним.
 - При нажатии на компонент в рабочей области (разделе) на компонент `UnionProduction` пользователю открывается подробная информация в виде карточек (компонент `Goods`, в которых около каждого товара указаны ранее введённые им свойства и рядом с каждым имеется значок редактирования. Под карточками добавленных товаров указан компонент `AcceptanceDelivery`, рядом с которым так-же имеется кнопка "Изменить", которая позволяет пользователю внести изменения в способ доставки товаров до склада.
-
-
+- Так-же компонент имеет кнопку "Отменить заказ на приёмку", после чего она попадает в информативный блок "Архив приёмки".
 
 **Реализация компонента**
 Данный компонент визуально реализован в виде таблицы, со строками, которые отображают следующие свойства приемки:
@@ -209,11 +208,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzgzNDUwLC0yODEyMjI5NTQsLTEzNT
-UxMzI5NTksLTUzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAy
-MTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLT
-EzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2
-MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2Mz
-U3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5
-MDk1Njg0OV19
+eyJoaXN0b3J5IjpbLTE0OTMwNzYxNDIsLTI4MTIyMjk1NCwtMT
+M1NTEzMjk1OSwtNTM4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5
+MDIxMywtMTEwMjc2NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNi
+wtMTM0NDUyMDAxNyw2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIx
+ODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OT
+YzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwt
+ODkwOTU2ODQ5XX0=
 -->
