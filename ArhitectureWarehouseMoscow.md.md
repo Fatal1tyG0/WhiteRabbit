@@ -104,6 +104,7 @@
 **Компонент** `UnionProduction`
 **Описание**
 >Данный раздел предназначен для мониторинга процесса согласование заведения остатков на склад пользователем. В ходе согласования пользователь может дополнить приемку (например когда доставка товаров осуществляется такси, в этом случае он может добавить номер телефона водителя, Марку машины, номер машины, ссылку на заказ доставки в такси), что бы администратор мог согласовать и организовать приемку. Пользователь может изменить характеристики приемки до подтверждения ее администратором, в последующем все изменения в приемку вносятся с утверждения администратора.
+>После утверждения приёмки администратором - заказ попадает в раздел "2.2 Мои остатки", где происходит разбивка по каждому товару. Каждый товар, который не был о
 
 **Описание раздела** `AgreementProduct`
 В ходе перемещения компонента `UnionProduction` в данный раздел пользователь может:
@@ -209,11 +210,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMzUyNzg1LC0yODEyMjI5NTQsLTEzNT
-UxMzI5NTksLTUzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAy
-MTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLT
-EzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2
-MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIzNDk2Mz
-U3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MTgsLTg5
-MDk1Njg0OV19
+eyJoaXN0b3J5IjpbMTY2MzM5OTQ3MSwtMjgxMjIyOTU0LC0xMz
+U1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3Mzkw
+MjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC
+0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4
+NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5Nj
+M1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04
+OTA5NTY4NDldfQ==
 -->
