@@ -59,9 +59,13 @@
 - Название товара;
 - Количество товара;
 - Вес товара; (общий), формула после вычисляет вес одной штуки;
-1.1.4 Объем товара (общий), формула после вычисляет объем одной штуки;
-1.1.5 Количество коробок с товаром; 
-1.1.6 Доставка товара
+- Объем товара (общий), формула после вычисляет объем одной штуки;
+- Количество коробок с товаром; 
+- Доставка товара
+
+**Компонент** `AcceptanceDelivery` представляет из себя способ доставки грузов и включает следующие свойства:
+- 1.1.6.1 Доставка (забор) силами «WhiteRabbit”
+- Доставка своими силами
 
 **Реализация компонентов**
 Пользователь заполняет форму, с вышеуказанными характеристиками, которая передается в функцию 1.2 «Согласование приемки товара». В форму возможно добавить неограниченное количество товаров, они имеют нумерацию (пример: товар #1, товар #2 и т.д)
@@ -181,11 +185,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTU3MzI2OSwtNTM4NDIxNTM1LC04OD
-U5MjYzNjMsMTM1NzM5MDIxMywtMTEwMjc2NDI4LC01NjQ4MzE3
-NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNyw2MDYxMjAyNjYsLT
-E4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5NTQ3MDM4LC0yMDg4
-NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3ODI2MzAsNDk0MTM5OT
-M4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04MDQ0Mzc1MTcsLTM1
-NDMxMjI0NF19
+eyJoaXN0b3J5IjpbLTIwNjY5MjA4MzUsLTUzODQyMTUzNSwtOD
+g1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOCwtNTY0ODMx
+NzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMjY2LC
+0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOCwtMjA4
+ODc0NjYxMiwtMTIzNDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOT
+kzOCwzMTczNDY1MTgsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0z
+NTQzMTIyNDRdfQ==
 -->
