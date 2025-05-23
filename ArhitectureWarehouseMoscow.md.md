@@ -135,7 +135,7 @@
 1.2.5 Дата прибытия груза;
 1.2.6 Способ прибытия груза; 
 
-**При нажатии** на компонент `UnionProduction`  в рабочей области `AgreementProduct` открывается полная информация о свойствах компонента, где пользователь может взаимодействовать с формой. Компонент имеет статус 
+**При нажатии** на компонент `UnionProduction`  в рабочей области `AgreementProduct` открывается полная информация о свойствах компонента, где пользователь может взаимодействовать с формой. Компонент имеет статусы: "На согласовании" до утверждения администратором, "Утверждён". После "Утверждён" заказ переносится в архивный.
 
 
 
@@ -212,7 +212,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM0MDEzNDUsLTM0ODEyMzEzNiwtNj
+eyJoaXN0b3J5IjpbLTE1ODQ5NzAwNDgsLTM0ODEyMzEzNiwtNj
 U4NDcxNDYwLC0yODEyMjI5NTQsLTEzNTUxMzI5NTksLTUzODQy
 MTUzNSwtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOC
 wtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2
