@@ -99,7 +99,8 @@
 >В случае, когда пользователь организовывает доставку через сервисы такси, он должен поставить галочку в форме, напротив свойства, при проставлении галочки, пользователь получает комментарий следующего характера: Обращаем Ваше внимание, что в момент доставки груза на склад, Вам необходимо дополнить данные о водителе и транспортном средстве, что бы мы смогли сформировать пропуск на склад. Данное изменение Вы можете внести в разделе «Согласование приемки товара».
 
 ### 1.2  Согласование приемки 
-**Раздел** `AgreementProduct`
+**Раздел** `AgreementProductWorkSpace`
+**Компонент** 
 **Описание**
 >Данный раздел предназначен для мониторинга процесса согласование заведения остатков на склад пользователем. В ходе согласования пользователь может дополнить приемку (например когда доставка товаров осуществляется такси, в этом случае он может добавить номер телефона водителя, Марку машины, номер машины, ссылку на заказ доставки в такси), что бы администратор мог согласовать и организовать приемку. Пользователь может изменить характеристики приемки до подтверждения ее администратором, в последующем все изменения в приемку вносятся с утверждения администратора.
 
@@ -123,6 +124,7 @@
 1.2.5 Дата прибытия груза;
 1.2.6 Способ прибытия груза; 
 
+**Использование компонента**
 
 
 ### 1.3 Прайс лист услуг «Склад Москва» 
@@ -196,11 +198,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTIyMjk1NCwtMTM1NTEzMjk1OSwtNT
-M4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5MDIxMywtMTEwMjc2
-NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMDAxNy
-w2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywtMzM5
-NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0LDEyMTI3OD
-I2MzAsNDk0MTM5OTM4LDMxNzM0NjUxOCwtODkwOTU2ODQ5LC04
-MDQ0Mzc1MTddfQ==
+eyJoaXN0b3J5IjpbMTI1Nzg1MTkzMywtMjgxMjIyOTU0LC0xMz
+U1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3Mzkw
+MjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC
+0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4
+NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5Nj
+M1NzQsMTIxMjc4MjYzMCw0OTQxMzk5MzgsMzE3MzQ2NTE4LC04
+OTA5NTY4NDldfQ==
 -->
