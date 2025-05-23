@@ -53,6 +53,9 @@
 **Описание раздела** `ProductDirection`
 >  Данный раздел предназначена для помещения товаров на склад, указания характеристик груза пользователем, способ прибытия груза, дату и время его прибытия. По результатам выполнения данной функции пользователь помещает остатки своего товара на склад, а так-же пользователю выставляется счет на оплату за оказанные услуги, такие как разгрузка товара, паллетирование, оплата доставки груза на склад (в случае выбора опции «Доставка товара на склад силами «WhiteRabbit”).
 
+**Описание компонентов модуля**
+
+
 **Реализация компонентов**
 Пользователь заполняет форму, с вышеуказанными характеристиками, которая передается в функцию 1.2 «Согласование приемки товара». В форму возможно добавить неограниченное количество товаров, они имеют нумерацию (пример: товар #1, товар #2 и т.д)
 *Описание формы (объекта)*
@@ -171,11 +174,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODQyMTUzNSwtODg1OTI2MzYzLDEzNT
-czOTAyMTMsLTExMDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3
-MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLD
-EyMTg2MjU1MzcsLTMzOTU0NzAzOCwtMjA4ODc0NjYxMiwtMTIz
-NDk2MzU3NCwxMjEyNzgyNjMwLDQ5NDEzOTkzOCwzMTczNDY1MT
-gsLTg5MDk1Njg0OSwtODA0NDM3NTE3LC0zNTQzMTIyNDQsLTIw
-ODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDgxNDAxMzc2LC01Mzg0MjE1MzUsLTg4NT
+kyNjM2MywxMzU3MzkwMjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0
+NywtOTIzMDc5NzE2LC0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMT
+g3NzYxNjY2MSwxMjE4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3
+NDY2MTIsLTEyMzQ5NjM1NzQsMTIxMjc4MjYzMCw0OTQxMzk5Mz
+gsMzE3MzQ2NTE4LC04OTA5NTY4NDksLTgwNDQzNzUxNywtMzU0
+MzEyMjQ0XX0=
 -->
