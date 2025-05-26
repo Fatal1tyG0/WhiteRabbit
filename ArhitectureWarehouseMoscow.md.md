@@ -18,13 +18,14 @@
 >3) Уставном капитале;
 >4) Адресе регистрации;
 
-[Национальный реестр компаний](https://bt.gsxt.gov.cn/corp-query-homepage.html)
+1. [Национальный реестр компаний(Общий)](https://bt.gsxt.gov.cn/corp-query-homepage.html)
+![enter image description here](https://s.iimg.su/s/26/wceITkmJI4xRiaoXj1hwbRxZptQbK6LnvmD3Ynlp.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgwMTEwODYsLTM5MTIxNjc3NCwtMj
-UyMDY4NjM3LC0xOTMwMzM1ODI0LDE5OTU5NjYzNDYsLTM0ODEy
-MzEzNiwtNjU4NDcxNDYwLC0yODEyMjI5NTQsLTEzNTUxMzI5NT
-ksLTUzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAyMTMsLTEx
-MDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1Mj
-AwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1Mzcs
-LTMzOTU0NzAzOF19
+eyJoaXN0b3J5IjpbMTM3MTcwMDEwOCwtMzkxMjE2Nzc0LC0yNT
+IwNjg2MzcsLTE5MzAzMzU4MjQsMTk5NTk2NjM0NiwtMzQ4MTIz
+MTM2LC02NTg0NzE0NjAsLTI4MTIyMjk1NCwtMTM1NTEzMjk1OS
+wtNTM4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5MDIxMywtMTEw
+Mjc2NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMD
+AxNyw2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywt
+MzM5NTQ3MDM4XX0=
 -->
