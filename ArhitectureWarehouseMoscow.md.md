@@ -11,13 +11,13 @@
 >Пройдя по этой ссылке - Вы попадёте на сайт, где по уникальному номеру компании или её названию - Вы сможете получить всю необходимую информацию.
 
 ### Проверка фабрик (Поставщиков) по Китайскому национальному реестру компаний
-Jlby 
+Один из спосо
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTIxNjc3NCwtMjUyMDY4NjM3LC0xOT
-MwMzM1ODI0LDE5OTU5NjYzNDYsLTM0ODEyMzEzNiwtNjU4NDcx
-NDYwLC0yODEyMjI5NTQsLTEzNTUxMzI5NTksLTUzODQyMTUzNS
-wtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOCwtNTY0
-ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMj
-Y2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOCwt
-MjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEzMzc2MDAwMCwtMzkxMjE2Nzc0LC0yNT
+IwNjg2MzcsLTE5MzAzMzU4MjQsMTk5NTk2NjM0NiwtMzQ4MTIz
+MTM2LC02NTg0NzE0NjAsLTI4MTIyMjk1NCwtMTM1NTEzMjk1OS
+wtNTM4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5MDIxMywtMTEw
+Mjc2NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNiwtMTM0NDUyMD
+AxNyw2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNTUzNywt
+MzM5NTQ3MDM4XX0=
 -->
