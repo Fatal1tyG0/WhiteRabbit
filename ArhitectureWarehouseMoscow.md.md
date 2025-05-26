@@ -1,7 +1,7 @@
 # Инструкция по проверке фабрики в Китае на различных онлайн площадках
 **ОГЛАВЛЕНИЕ**
 1. [Проверка фабрик (Поставщиков) на штрафы и суды creditchina](#Проверка-фабрик-(Поставщиков)-на-штрафы-и-суды-creditchina)
-2. 
+2. [Проверка фабрик (Поставщиков) по Китайскому национальному реестру компаний](#Проверка-фабрик-(Поставщиков)-по-Китайскому-национальному-реестру-компаний)
 
 ### Проверка фабрик (Поставщиков) на штрафы и суды creditchina
 ![Внешний вид главной страницы Кредитчина](https://s.iimg.su/s/26/93xlmQ4agfGi0Pboh9tevgUhnnHZbnTtUel6DMrC.png)
@@ -12,11 +12,11 @@
 
 ### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjA2ODYzNywtMTkzMDMzNTgyNCwxOT
-k1OTY2MzQ2LC0zNDgxMjMxMzYsLTY1ODQ3MTQ2MCwtMjgxMjIy
-OTU0LC0xMzU1MTMyOTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2My
-wxMzU3MzkwMjEzLC0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIz
-MDc5NzE2LC0xMzQ0NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNj
-Y2MSwxMjE4NjI1NTM3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIs
-LTEyMzQ5NjM1NzRdfQ==
+eyJoaXN0b3J5IjpbLTUyNjUwMjM3OCwtMjUyMDY4NjM3LC0xOT
+MwMzM1ODI0LDE5OTU5NjYzNDYsLTM0ODEyMzEzNiwtNjU4NDcx
+NDYwLC0yODEyMjI5NTQsLTEzNTUxMzI5NTksLTUzODQyMTUzNS
+wtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOCwtNTY0
+ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1MjAwMTcsNjA2MTIwMj
+Y2LC0xODc3NjE2NjYxLDEyMTg2MjU1MzcsLTMzOTU0NzAzOCwt
+MjA4ODc0NjYxMl19
 -->
