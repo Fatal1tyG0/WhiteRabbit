@@ -1,17 +1,19 @@
 # Инструкция по проверке фабрики в Китае на различных онлайн площадках
 **ОГЛАВЛЕНИЕ**
 1. [Проверка фабрик (Поставщиков) на штрафы и суды creditchina](#Проверка-фабрик-(Поставщиков)-на-штрафы-и-суды-creditchina)
+2. 
 
 ### Проверка фабрик (Поставщиков) на штрафы и суды creditchina
-Один из способов проверки своего Китайского партнера - проверить его компанию на штрафы и судебные решения. Что это нам даст? Понимание о том, на сколько прозрачно и добросовестно ведёт себя поставщик. Наличие судебных решений - не факт того, что с поставщиком не стоит иметь дел, это повод для то
+Один из способов проверки своего Китайского партнера - проверить его компанию на штрафы и судебные решения. Что это нам даст? Понимание о том, на сколько прозрачно и добросовестно ведёт себя поставщик. Наличие судебных решений - не факт того, что с поставщиком не стоит иметь дел, это повод для того, что бы задавать вопросы и выяснять необходимую для Вас информацию. От полученной информации - Вы можете делать вывод.
 
 [Проверить компанию поставщика на штрафы и судебные решения](https://www.creditchina.gov.cn/)
+>Пройдя по этой ссылке - Вы попадёте на сайт, где по уникальному номеру компании или её названию - Вы сможете получить всю необходимую информацию.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Mzk0OTUxOSwxOTk1OTY2MzQ2LC0zND
-gxMjMxMzYsLTY1ODQ3MTQ2MCwtMjgxMjIyOTU0LC0xMzU1MTMy
-OTU5LC01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3MzkwMjEzLC
-0xMTAyNzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC0xMzQ0
-NTIwMDE3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1NT
-M3LC0zMzk1NDcwMzgsLTIwODg3NDY2MTIsLTEyMzQ5NjM1NzQs
-MTIxMjc4MjYzMF19
+eyJoaXN0b3J5IjpbLTE5MzAzMzU4MjQsMTk5NTk2NjM0NiwtMz
+Q4MTIzMTM2LC02NTg0NzE0NjAsLTI4MTIyMjk1NCwtMTM1NTEz
+Mjk1OSwtNTM4NDIxNTM1LC04ODU5MjYzNjMsMTM1NzM5MDIxMy
+wtMTEwMjc2NDI4LC01NjQ4MzE3NDcsLTkyMzA3OTcxNiwtMTM0
+NDUyMDAxNyw2MDYxMjAyNjYsLTE4Nzc2MTY2NjEsMTIxODYyNT
+UzNywtMzM5NTQ3MDM4LC0yMDg4NzQ2NjEyLC0xMjM0OTYzNTc0
+LDEyMTI3ODI2MzBdfQ==
 -->
