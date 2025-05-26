@@ -32,6 +32,7 @@
 </blockquote>
 <ol>
 <li><a href="https://bt.gsxt.gov.cn/corp-query-homepage.html">Национальный реестр компаний(Общий)</a></li>
+<li><a href="https://www.cr.gov.hk">Национальный реестр компаний (Гонконг)</a></li>
 </ol>
 <p><img src="https://s.iimg.su/s/26/wceITkmJI4xRiaoXj1hwbRxZptQbK6LnvmD3Ynlp.png" alt="Внешний вид главной страницы национального реестра"></p>
 <hr>
