@@ -10,9 +10,10 @@
 [Проверить компанию поставщика на штрафы и судебные решения](https://www.creditchina.gov.cn/)
 >Пройдя по этой ссылке - Вы попадёте на сайт, где по уникальному номеру компании или её названию - Вы сможете получить всю необходимую информацию.
 
-### 
+### Проверка фабрик (Поставщиков) по Китайскому национальному реестру компаний
+Jlby 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjUwMjM3OCwtMjUyMDY4NjM3LC0xOT
+eyJoaXN0b3J5IjpbLTM5MTIxNjc3NCwtMjUyMDY4NjM3LC0xOT
 MwMzM1ODI0LDE5OTU5NjYzNDYsLTM0ODEyMzEzNiwtNjU4NDcx
 NDYwLC0yODEyMjI5NTQsLTEzNTUxMzI5NTksLTUzODQyMTUzNS
 wtODg1OTI2MzYzLDEzNTczOTAyMTMsLTExMDI3NjQyOCwtNTY0
