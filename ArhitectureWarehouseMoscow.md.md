@@ -11,13 +11,20 @@
 >Пройдя по этой ссылке - Вы попадёте на сайт, где по уникальному номеру компании или её названию - Вы сможете получить всю необходимую информацию.
 
 ### Проверка фабрик (Поставщиков) по Китайскому национальному реестру компаний
-Один из способов проверки Китайской компании - проверка по национальному реестру компаний в Китае. Для не материковых частей Китая существуют отдельные версии данного сайта. Иногда бывает такое, что компания отсутствует в общем реестре.
+Один из способов проверки Китайской компании - проверка по национальному реестру компаний в Китае. Для не материковых частей Китая существуют отдельные версии данного сайта. Иногда бывает такое, что компания отсутствует в общем реестре. Если такое случилось - стоит произвести поиск по муниципальному реестру.
+>В данных реестрах содержится информация об:
+>1) Президенте компании;
+>2) Задекларированных видах деятельности компании;
+>3) Уставном капитале;
+>4) Адресе регистрации;
+
+[Национальный реестр компаний](https://bt.gsxt.gov.cn/corp-query-homepage.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODYxOTM3LC0zOTEyMTY3NzQsLTI1Mj
-A2ODYzNywtMTkzMDMzNTgyNCwxOTk1OTY2MzQ2LC0zNDgxMjMx
-MzYsLTY1ODQ3MTQ2MCwtMjgxMjIyOTU0LC0xMzU1MTMyOTU5LC
-01Mzg0MjE1MzUsLTg4NTkyNjM2MywxMzU3MzkwMjEzLC0xMTAy
-NzY0MjgsLTU2NDgzMTc0NywtOTIzMDc5NzE2LC0xMzQ0NTIwMD
-E3LDYwNjEyMDI2NiwtMTg3NzYxNjY2MSwxMjE4NjI1NTM3LC0z
-Mzk1NDcwMzhdfQ==
+eyJoaXN0b3J5IjpbLTExOTgwMTEwODYsLTM5MTIxNjc3NCwtMj
+UyMDY4NjM3LC0xOTMwMzM1ODI0LDE5OTU5NjYzNDYsLTM0ODEy
+MzEzNiwtNjU4NDcxNDYwLC0yODEyMjI5NTQsLTEzNTUxMzI5NT
+ksLTUzODQyMTUzNSwtODg1OTI2MzYzLDEzNTczOTAyMTMsLTEx
+MDI3NjQyOCwtNTY0ODMxNzQ3LC05MjMwNzk3MTYsLTEzNDQ1Mj
+AwMTcsNjA2MTIwMjY2LC0xODc3NjE2NjYxLDEyMTg2MjU1Mzcs
+LTMzOTU0NzAzOF19
 -->
