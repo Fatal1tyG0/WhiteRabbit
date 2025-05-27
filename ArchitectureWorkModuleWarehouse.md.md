@@ -252,18 +252,34 @@
 </ul>
 <p>При создании артикула - ему присваивается порядковый номер, или генерируется артикул. Каждый артикул привязывается к конкретному пользователю.</p>
 <hr>
-<h3 id="раздел-№-2.2-мои-остатки-на-складе">Раздел № 2.2 Мои остатки на складе</h3>
+<h3 id="раздел-№-2.2-мои-остатки">Раздел № 2.2 Мои остатки</h3>
 <p><strong>Раздел</strong> <code>MyRemainingGoodsInWarehouse</code><br>
 <strong>Компоненты</strong> <code>UnionProduction</code>, <code>MyRemainingGoods</code></p>
 <p><strong>Описание раздела</strong> <code>MyRemainingGoodsInWarehouse</code><br>
 Раздел выполнен в виде таблицы. В таблице отображаются остатки товаров пользователя, которые находятся на складе. Остатки помещаются на склад через компонент <code>UnionProduction</code>. <code>UnionProduction</code> отображает в таблице раздела свойства, которые ранее были введены пользователем и одобрены администратором (либо утверждены и отредактированы администратором).<br>
-Компонент <code>UnionProduction</code> отображается только в том случае, пока пользователь не обличил товар и не связал его с карточкой товара из раздела <code>MyArticles</code>.  После обличение товара и связывания его с карточкой товара <code>ArticleProducte</code> он становится компонентом <code>MyRemainingGoods</code> и ему присваивается порядковый номер учета (пример: MyRemainingGoods179), который привязывается к пользователю и отображается в остатках и он может с ним взаимодействовать.</p>
+Компонент <code>UnionProduction</code> отображается только в том случае, пока пользователь не обличил товар и не связал его с карточкой товара из раздела <code>MyArticles</code>.  После обличение товара и связывания его с карточкой товара <code>ArticleProducte</code> он становится компонентом <code>MyRemainingGoods</code> и ему присваивается порядковый номер учета (пример: <code>MyRemainingGoods179</code>), который привязывается к пользователю и отображается в остатках и он может с ним взаимодействовать.</p>
+<p><strong>Кнопки взаимодействия с компонентом <code>UnionProduction</code></strong></p>
+<ul>
+<li>Назначить артикул товара для остатков;</li>
+</ul>
+<blockquote>
+<p>Данная кнопка позволяет привязать не обличенные остатки товара после приёмки из компонента <code>UnionProduction</code> к артикулу товара <code>MyArticles</code>, после чего он становится компонентом <code>MyRemainingGoods</code>, что позволяет в последующем пользователю работать с остатками товара.</p>
+</blockquote>
+<ul>
+<li>Изменить артикул товара для остатков;</li>
+</ul>
+<blockquote>
+<p>Данная кнопка позволяет перепривязать уже обличенные остатки товара из компонента <code>MyRemainingGoods</code>, привязанные к существующему компоненту <code>MyArticles</code>, привязать к другому артикулу товара <code>MyArticles</code>.</p>
+</blockquote>
+<ul>
+<li></li>
+</ul>
 <h2 id="раздел-№5-«отправка-товаров-на-склад»-на-стороне-администратора">Раздел №5 «Отправка товаров на склад» на стороне Администратора</h2>
 <blockquote>
 <p>Описание функционала раздела для администратора. У администратора отсутствует компонент «ProductDirection» и «AgreementProduct». Вместо этого, у администратора отображается компонент «WorkingAreaAcceptProduct”.</p>
 </blockquote>
 <h3 id="рабочая-область-приемки-товаров">1.5 Рабочая область приемки товаров</h3>
-<p><strong>Компонент</strong> <code>WorkingAreaAcceptProduct</code><br>
+<p><strong>Раздел</strong> <code>WorkingAreaAcceptProduct</code><br>
 <strong>Подкомпоненты</strong> <code>ApproveOrder</code>, <code>CancelOrder</code>, <code>ChangeOrder</code>, <code>RecivedOrderAll</code>, <code>RecivedOrderNonAll</code>, <code>PaymentAcceptionGoods</code><br>
 <strong>Описание</strong></p>
 <blockquote>
