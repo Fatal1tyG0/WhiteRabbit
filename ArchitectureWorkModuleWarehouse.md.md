@@ -254,7 +254,30 @@
 <hr>
 <h3 id="раздел-№-2.2-мои-остатки">Раздел № 2.2 Мои остатки</h3>
 <p><strong>Раздел</strong> <code>MyRemainingGoodsInWarehouse</code><br>
-<strong>Компоненты</strong> <code>UnionProduction</code>, <code>MyRemainingGoods</code>, <code>RemovalOfLeftovers</code></p>
+<strong>Компоненты</strong> <code>UnionProduction</code>, <code>MyRemainingGoods</code>, <code>RemovalOfLeftovers</code>, <code>UserCompany</code></p>
+<hr>
+<p><strong>Компонент</strong> <code>MyRemainingGoods</code><br>
+<strong>Описание</strong><br>
+Данный компонент предназначен для обличенных остатков и при его создании (обличии остатков товара) ему присваивается порядковый номер. Он наследует свойства <code>UnionProduction</code>, такие как:</p>
+<ul>
+<li>Количетсво товара;<br>
+а так-же свойства компонента <code>MyArticles</code>, а именно:</li>
+<li>Название товара;</li>
+<li>код ТН ВЭД товара;</li>
+<li>Размер товара (может отсутствовать);</li>
+<li>Цвет товара (может отсутствовать);</li>
+<li>Объём единицы товара;</li>
+<li>Вес единицы товара (GW);</li>
+<li>Вес единицы товара (NW);<br>
+а так-же свойства компонента <code>UserCompany</code>, а именно:</li>
+<li>Название компании пользователя</li>
+<li>ИНН компании пользователя</li>
+</ul>
+<p><strong>Реализация компонента</strong><br>
+Данный компонент имеет место быть после того, когда пользователь через через кнопку <strong>Назначить артикул товара для остатков</strong>, после чего он из компонента <code>UnionProduction</code>, который имеет порядковый номер, становится компонентом <code>MyRemainingGoods</code>.</p>
+<hr>
+<p><strong>Компонент</strong> <code>RemovalOfLeftovers</code><br>
+<strong>Описание</strong></p>
 <p><strong>Описание раздела</strong> <code>MyRemainingGoodsInWarehouse</code><br>
 Раздел выполнен в виде таблицы. В таблице отображаются остатки товаров пользователя, которые находятся на складе. Остатки помещаются на склад через компонент <code>UnionProduction</code>. <code>UnionProduction</code> отображает в таблице раздела свойства, которые ранее были введены пользователем и одобрены администратором (либо утверждены и отредактированы администратором).<br>
 Компонент <code>UnionProduction</code> отображается только в том случае, пока пользователь не обличил товар и не связал его с карточкой товара из раздела <code>MyArticles</code>.  После обличение товара и связывания его с карточкой товара <code>ArticleProducte</code> он становится компонентом <code>MyRemainingGoods</code> и ему присваивается порядковый номер учета (пример: <code>MyRemainingGoods179</code>), который привязывается к пользователю и отображается в остатках и он может с ним взаимодействовать.</p>
