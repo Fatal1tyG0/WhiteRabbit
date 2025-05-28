@@ -392,6 +392,10 @@
 </blockquote>
 <p>После поступления компонента <code>RequestForRefunds</code> на складские остатки - его так-же необходимо обличить и сопоставить с артикулами товара <code>MyArticles</code>, после чего компонент <code>RequestForRefunds</code> становится <code>MyRemainingGoods</code> и пользователь может работать с данными товарами так-же на общих условиях.</p>
 <hr>
+<h3 id="раздел-2.4-вывоз-остатков">Раздел 2.4 Вывоз остатков</h3>
+<p><strong>Раздел</strong> <code>RemovalGoodsFromTheWarehouse</code><br>
+<strong>Компоненты</strong> <code>RemovalProduction</code></p>
+<p><strong>Описание</strong></p>
 <h2 id="раздел-№5-«отправка-товаров-на-склад»-на-стороне-администратора">Раздел №5 «Отправка товаров на склад» на стороне Администратора</h2>
 <blockquote>
 <p>Описание функционала раздела для администратора. У администратора отсутствует компонент «ProductDirection» и «AgreementProduct». Вместо этого, у администратора отображается компонент «WorkingAreaAcceptProduct”.</p>
